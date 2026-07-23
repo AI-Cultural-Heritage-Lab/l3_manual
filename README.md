@@ -7,9 +7,6 @@ This lab manual draws upon the collectively-honed insights and pathbreaking work
 
 The Manual would not exist in this form without Nick Shapiro's [Carceral Ecologies Lab Book](https://github.com/Carceral-Ecologies/lab_book) and Christopher Kelty's [LAByrinth Project Manual](https://github.com/toubian/labyrinth_manual) from which the structure, content, and aforementioned citations were borrowed with minor edits. 
 
-[Labyrinth Overview](./Labyrinth-Overview.jpg)
-<img src="Labyrinth-Overview.jpg" width="400">
-
 ##	__Value Framework__
  
 We communicate our values in the hopes that they will ground our actions and decisions in what we hold important. It is our aspiration that all actions and outputs of the lab are reflective of these values.
@@ -20,35 +17,35 @@ We communicate our values in the hopes that they will ground our actions and dec
 4. Humor, Joy, Curiosity.
 
 ## Glossary of Terms
-[TBD] A glossary of terms we use including our values is located [here](https://docs.google.com/document/d/1LH2bwnm4T5HTRTwIB4nF-Lrtso8dE6D0iBCZ2NVg1fQ/edit?usp=sharing).
+[TBD] A glossary of terms we use including our values is located [here](https://docs.google.com/document/d/1MUg2a8ss1DQ60-8iH_SxH5wmgaOH3Ivj1tEVEWpVYyg/edit?usp=sharing).
 
-## The kind of work we do in Labyrinth
+## The kind of work we do in L3
 
 ### Methods: Curiosity
 
- - **reading**.  Becoming an expert about Los Angeles, Ecologies, science and technology, culture and history can only happen by reading a lot.  Labyrinth members are curious, read widely, share what they are learning, and recognize how difficult it is to know a lot of diverse stuff.   Reading comes in many forms: slow, fast, deep, close, surface, familiar, unfamiliar, active, passive...  but what they all share is that you are building your own conceptual labyrinth by reading, and you have to have the curiosity and patience to do that if you want to do research. 
+ - **reading**.  Becoming an expert about __________________ can only happen by reading a lot.  Lab members are curious, read widely, share what they are learning, and recognize how difficult it is to know a lot of diverse stuff.   Reading comes in many forms: slow, fast, deep, close, surface, familiar, unfamiliar, active, passive...  but what they all share is that you are building your own conceptual labyrinth by reading, and you have to have the curiosity and patience to do that if you want to do research. 
 
- - **thinking with concepts, inquiry**.  Finding **concepts** to work with means identifying ideas that have weight, complexity and specificity.  Sometimes we are given these concepts to think about, for instance "animal rights", and sometimes we have to change or invent them to make progress. 
+ - **thinking with concepts, inquiry**.  Finding **concepts** to work with means identifying ideas that have weight, complexity and specificity.  Sometimes we are given these concepts to think about, for instance "________", and sometimes we have to change or invent them to make progress. 
  
- - **observation and being in the city**.  Active being in and with Los Angeles is key to our work.  Although reading is important, being in the city, listening, hearing, smelling, interacting, maybe even participating or intervening, eventually teach you more than reading alone will.  **Noticing** requires going back and forth between reading and being in the city.  Sometimes getting a little bored is also necessary before you notice something.  
+ - **observation and being embodied**.  Active being in and with _________ is key to our work.  Although reading is important, being in the city, listening, hearing, smelling, interacting, maybe even participating or intervening, eventually teach you more than reading alone will.  **Noticing** requires going back and forth between reading and being in the city.  Sometimes getting a little bored is also necessary before you notice something.  
 
- - **methods for talking to and with other people**.  A core rule in Labyrinth is the **everyone is expert in something** both us, and the people we might talk to.  We do not extract data from people or try to understand what they think in any other way than by inviting them to conversation.  If collaboration emerges that is fantastic.  If it does not, then we are simply learning, not "doing research". 
+ - **methods for talking to and with other people**.  A core rule in L3 is the **everyone is expert in something** both us, and the people we might talk to.  We do not extract data from people or try to understand what they think in any other way than by inviting them to conversation.  If collaboration emerges that is fantastic.  If it does not, then we are simply learning, not "doing research". 
  
  - **methods for identifying and gathering "data"**.  Data is made not born.  There is no such thing as raw data.  Every act of creating or analyzing data should be something we investigate, critically review, and double check.  Data---the word--- refers to things that are supposedly given or simply there.  But all data had to begin with noticing.  You do not own the data you collect, it is not yours to do whatever you please with it.  When we make data we make relations with someone or some entity, and those relations come with responsibilities. 
   
-- **methods for creating**.  Labyrinth, as a project, tries to preserve the liberty to produce in diverse ways and to engage the creativity and skills of members.  Writing? yes of course, we do that.  but also: thinking about other forms of expression or communication.  For our podcast series we think about story-telling and theatrics; we have the opportunity to think about our work as a board game of role-playing game---what would that be?  for our website or for presentations, do we have straightforward findings to communicate, or do we want to challenge audiences to think differently about something, or are working collaboratively with a partner who needs the authority of UCLA research to do what they do? 
+- **methods for creating**.  L3, as a project, tries to preserve the liberty to produce in diverse ways and to engage the creativity and skills of members.  Writing? yes of course, we do that.  but also: thinking about other forms of expression or communication. For our website or for presentations, do we have straightforward findings to communicate, or do we want to challenge audiences to think differently about something, or are working collaboratively with a partner who needs the authority of UCLA research to do what they do? 
 
-## How the Labyrinth Project works
+## How the Lab works
 
 **We are an experiment in participatory research.**  This means several things
 
-  - **Labyrinth projects are more than the sum of their parts**. In humanities and social science most research was traditionally individual and solitary.  In Labyrinth everything we try to share as much as possible.  We share the materials, data, methods, and projects with all the members, even though individual people take the lead on them, and deserve credit for the work they do.  
+  - **Projects are more than the sum of their parts**. In humanities and social science most research was traditionally individual and solitary.  In the lab we try to share everything as much as possible.  We share the materials, data, methods, and projects with all the members, even though individual people take the lead on them, and deserve credit for the work they do.  
   
   - **We do exploratory research.**  this means, for the most part, that we don't always know why we are doing something at the outset.  If we did, it wouldn't be research.  Sometimes that means we go down a path a long way before we stop and admit that it isn't leading anywhere.  Trust your intuitions, because they are what we rely on to find out interesting things. Check in frequently and talk about what you are trying to do. 
   
-  - **A pedagogical experiment** For *grad students*, the Labyrinth project is an opportunity to do research outside of your dissertation and outside of your normal methods, if you want.  There are no rules or regulations other than the values listed above for the kind of work you do with Labyrinth, and neither Labyrinth nor the PI/Postdocs  make any claim on your dissertation work.  For *undergrads* the goal should be to experience research from start to finish, and to learn a set of skills that can be used in both research and non-research settings. 
+  - **A pedagogical experiment** For *grad students*, the lab is an opportunity to do research outside of your dissertation and outside of your normal methods, if you want.  There are no rules or regulations other than the values listed above for the kind of work you do with the lab, and neither the lab nor the PI/Postdocs  make any claim on your dissertation work.  For *undergrads* the goal should be to experience research from start to finish, and to learn a set of skills that can be used in both research and non-research settings. 
 
- -  **Hierarchy for some things, equality for most everything else**  Figure out how, when and what you will be responsible for together with others.  No one will tell you want to do in Labyrinth, but you can always ask what you can do and propose things you think you would like to do.  
+ -  **Hierarchy for some things, equality for most everything else**  Figure out how, when and what you will be responsible for together with others.  No one will tell you want to do in the lab, but you can always ask what you can do and propose things you think you would like to do.  
 
  - **Everyone should produce something**.  Most scholarly work (publications and books) takes a LONG time to produce, longer than most undergraduates are involved, and even some grad students.  Therefore, the goal is to try to make whatever can be finished in the time you have to participate, and then other people can build on that (including the PI or postdocs who take responsibility for getting things to publication.  That might mean that your goal is a map, a data set or a short working paper, instead of a complete and published scholarly work.  Focus on the intermediate steps, and take joy when it all comes together eventually. 
 
@@ -60,16 +57,12 @@ We communicate our values in the hopes that they will ground our actions and dec
 
 For a list of UCLA Campus Resources for Student Support please see [this list](https://docs.google.com/document/d/1RC9_vNrYTN9sylZM7HySeh21iTXRzwaUdBdo6_ngg00/edit?usp=sharing).
 
-2. *Attend lab and working group meetings.* Lab meetings (1.5 hrs/week) and working group meetings (1 hr/week) are the main ways that we operate as an entire lab, and as a community. All-hands lab meetings are where we discuss the values, concepts, goals, and ideas that underlie all our work as a lab, and therefore are where we work out how and why we work. Without the meetings, we are just some people working on some stuff. If you are not going to make a lab meeting, note it in the #general channel on discord. You *don't need to explain why* you won't be in attendance. 
+2. *Attend lab and working group meetings.* Lab meetings (1.5 hrs/week) and pillar meetings (1 hr/week) are the main ways that we operate as an entire lab, and as a community. All-hands lab meetings are where we discuss the values, concepts, goals, and ideas that underlie all our work as a lab, and therefore are where we work out how and why we work. Without the meetings, we are just some people working on some stuff. If you are not going to make a lab meeting, note it _______________. You *don't need to explain why* you won't be in attendance. 
 
- - Working group meetings occur without Chris (although he can be invited in or ask permission to join) and they are a time to work together in a non-agenda-driven space without faculty presence in order to self-organize. Meetings are usually led by the Undergraduate/Graduate/Postdoc leading the project, but should still be a collaborative space. If you are not going to be able to make a working group meeting note it in the channel for the project you're working on, so your collaborators know what to expect. You *don't need to explain why* you won't be in attendance, but please don't get in the habit of not attending meetings. If you do, someone from the lab will reach out to you to make sure you're ok.  
+ - Pillar meetings ____________
     
     Here are some ways to structure working group meetings:
-    * Quick check in. 
-    * If starting a new project go over the boring logistics of the workflow so no one gets lost in the protocol.
-    * Updates on current project.
-    * Where everyone is at and what questions are keeping you from moving forward (even if folks haven't started yet they can learn from other people's questions).
-    * If nearing the end of a project set a clear deadline to finish or to at the very least provide an update on where you left off. 
+    * 
 
 3. *Work autonomously, with others*. We trust and depend on you to get your projects done, and there won’t be a lot of oversight to ensure that is happening. Chris cares for the lab as a whole, while lab members care for projects, each other, and themselves. Our work is collaborative not competitive. Respect each others strengths and weaknesses. We will all inevitably struggle with some aspect of our work. When you need help, reach out to other lab members. **We expect that you are able to ask for help when you need it, and to problem solve.** We are all here to help. You are always welcome to check in with Chris or Sophia, but you were invited to join the lab because you’re smart and can figure things out, so try that first. Mistakes will be made. That’s cool. We admit our mistakes and we communicate them to others so that mistakes aren't repeated and then we move on.
 
