@@ -284,7 +284,9 @@ Do not use a generative model to evaluate another model without documenting the 
 
 
 ### Working with Cultural Heritage
-
+Cultural heritage materials are not merely content inputs. They may be evidence, testimony, sacred or culturally restricted knowledge, institutional records, artistic works, or traces of historical violence. Their digitization and computational analysis do not erase the conditions under which they were created, preserved, described, or made accessible.
+When working with archives, museums, libraries, or community collections, respect the institution’s access conditions and the knowledge of its staff. Document how cataloguing systems, collection histories, digitization choices, and archival absences affect the claims a project can make.
+AI-generated representations of the past should be evaluated not only for factual correctness but also for omission, narrative framing, homogenization, attribution, evidentiary grounding, and the displacement of historically situated voices.
 
 
 
