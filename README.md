@@ -88,15 +88,17 @@ For a list of UCLA Campus Resources for Student Support please see [this list](h
 
 10. *Don't get lost in enumeration*. Quantitative assessment can identify patterns, but it does not explain by itself how those patterns arose, why they matter, or what should be done about them. Counts, similarity scores, readability measures, benchmarks, and classifier outputs must be interpreted alongside qualitative, historical, rhetorical, and institutional analysis. We also examine what a metric fails to register, whose judgments it encodes, and how its use may reshape the object being studied.
 
-11. **Document computational decisions.** Record prompts, models, dates, parameters, preprocessing decisions, code versions, annotation criteria, and known limitations. Another researcher should be able to understand how an output was produced, even when a proprietary system prevents exact replication.
+11. *Document computational decisions.* Record prompts, models, dates, parameters, preprocessing decisions, code versions, annotation criteria, and known limitations. Another researcher should be able to understand how an output was produced, even when a proprietary system prevents exact replication.
 
-12. **Treat model outputs as claims, not sources of authority.** Verify factual claims against appropriate primary and secondary sources. Do not cite an AI-generated response as evidence for the historical claim it makes. When the model output itself is the object of analysis, preserve enough contextual information to interpret it responsibly.
+12. *Treat model outputs as claims, not sources of authority.* Verify factual claims against appropriate primary and secondary sources. Do not cite an AI-generated response as evidence for the historical claim it makes. When the model output itself is the object of analysis, preserve enough contextual information to interpret it responsibly.
 
-13. **Do not anthropomorphize models unnecessarily.** Prefer precise descriptions of system behavior over claims about what a model “knows,” “believes,” “understands,” “remembers,” or “intends,” unless the use of those terms is itself being analyzed.
+13. *Do not anthropomorphize models unnecessarily.* Prefer precise descriptions of system behavior over claims about what a model “knows,” “believes,” “understands,” “remembers,” or “intends,” unless the use of those terms is itself being analyzed.
 
-14. *Child Care*. Some people have care responsibilities for a child or children in their life, whether as a parent, an older sibling, cousin, etc. If your childcare needs ever come into conflict with the lab schedule, please don't feel as though you need to miss a lab meeting. We understand that sometimes plans fall though. If this happens, you are welcome to bring a child to lab meetings or lab work with you. We simply ask that you bring materials to keep them busy, and remain mindful of your classmates. 
+14. *Report harmful or sensitive outputs responsibly.* Historical fabrication, denial, racism, antisemitism, graphic violence, and other harmful outputs may be necessary objects of analysis. Reproduce them only to the extent required for evidence, provide context, and consider whether publication may amplify the harm being studied.
 
-15. *Animals*.  Animals are welcome in the lab, and appreciated, but please check in with the other members first if you can, not everyone has the same levels of comfort.  The campus also has rules about animals, which you should be mindful of. 
+15. *Child Care*. Some people have care responsibilities for a child or children in their life, whether as a parent, an older sibling, cousin, etc. If your childcare needs ever come into conflict with the lab schedule, please don't feel as though you need to miss a lab meeting. We understand that sometimes plans fall though. If this happens, you are welcome to bring a child to lab meetings or lab work with you. We simply ask that you bring materials to keep them busy, and remain mindful of your classmates. 
+
+16. *Animals*.  Animals are welcome in the lab, and appreciated, but please check in with the other members first if you can, not everyone has the same levels of comfort.  The campus also has rules about animals, which you should be mindful of. 
 
 
 ### Methods of Support
