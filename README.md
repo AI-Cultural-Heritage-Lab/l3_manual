@@ -57,7 +57,7 @@ We communicate our values in the hopes that they will ground our actions and dec
 
 For a list of UCLA Campus Resources for Student Support please see [this list](https://docs.google.com/document/d/1RC9_vNrYTN9sylZM7HySeh21iTXRzwaUdBdo6_ngg00/edit?usp=sharing).
 
-2. *Attend general and pillar meetings.* General meetings (1 hr/week) and pillar meetings (1 hr/week each) are the main ways that we operate as an entire lab, and as a community. General lab meetings are where we discuss the values, concepts, goals, and ideas that underlie all our work as a lab, and therefore are where we work out how and why we work. Without the meetings, we are just some people working on some stuff. 2. If you are not going to make a lab meeting people are expecting and relying on your attendance for, note it on Slack. You *don't need to explain why* you won't be in attendance. 
+2. *Attend general and pillar meetings.* General meetings (1 hr/week) and pillar meetings (1 hr/week each) are the main ways that we operate as an entire lab, and as a community. General lab meetings are where we discuss the values, concepts, goals, and ideas that underlie all our work as a lab, and therefore are where we work out how and why we work. Without the meetings, we are just some people working on some stuff. 2. If you are not going to make a lab meeting where people are expecting and relying on your attendance, note it on Slack. You *don't need to explain why* you won't be in attendance. 
 
 
 - Pillar meetings are (currently) made up of the following groups:
