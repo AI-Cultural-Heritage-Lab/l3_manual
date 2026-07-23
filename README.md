@@ -131,17 +131,30 @@ L<sup>3</sup> will, funding permitting, fund graduate students willing to do a r
 
 ### A Note on Authorship
 
-Our aim is to give due credit to all; authorship is determined differently based on the medium of publication their requirements. 
+Our aim is to give accurate and proportionate credit for intellectual, technical, administrative, and relational labor. Preliminary authorship expectations should be discussed before substantial work begins, but authorship order and inclusion must be revisited as contributions evolve.
+For scholarly publications, authorship should reflect substantial contributions to the conception, execution, interpretation, or writing of the work, together with participation in reviewing the final output and accepting responsibility for it.
+Contributions that do not meet the agreed threshold for authorship should still be acknowledged explicitly. These may include annotation, data curation, software support, archival assistance, project administration, visualization, community consultation, or editorial feedback.
+Undergraduate status, seniority, job title, or temporary participation does not by itself determine authorship. Likewise, access to funding or supervision does not automatically justify authorship.
 
+Generally, this as tended to look like: 
 * Formal Journals: Authorship distribution is set before work on the deliverable commences.  
 * L<sup>3</sup> Website: Undergraduates/Graduates who work on the deliverable will (usually) get full authorship. 
-* Other mediums: To be determined before work begins by the authors and Todd. 
+* Other mediums: To be determined before work begins by the authors and Todd.
 
 ## What Resources do I Have Access to as a lab Member? How Do I Use Them?
 
 ### Spaces
 
+Physical Spaces: 
 1. 
+
+Digital Spaces: 
+1. Zoom Room
+2. Google Drive
+3. Slack
+4. CLickup (technical Team)
+
+* Never enter confidential, restricted, personally identifiable, unpublished, or partner-owned material into a public AI system without explicit approval.9
 
 __Additional Spaces to Know__
 
@@ -203,6 +216,8 @@ Guidelines are general rules and principles, whereas protocols are precise and d
 ## Onboarding to the lab
 Welcome to the lab!
 
+During onboarding, you will learn not only where the lab’s materials are located but also why its research practices are structured as they are. Before beginning project work, every member should understand the project’s historical context, research question, partner relationships, data provenance, ethical risks, documentation standards, and expectations concerning credit.
+
 First thing that will happen as a part of our onboarding proccess is that you will be invited to our Slack. Aileen or Sophia can issue invites to Slack. Once in Slack:
 
 * New to Slack? Here's a [tutorial](https://slack.com/intl/en-gb/help/categories/360000049063).
@@ -246,11 +261,30 @@ The lab uses Google Drive, Slack, and email to keep track of us as a whole.
 
 ### Licensing
 
-When we want to encourage the free and fair sharing of our work without cost, we use a [Creative Commons Share-Alike license ](https://creativecommons.org/licenses/by-sa/4.0/).  
+We generally support open access, reusable methods, transparent documentation, and non-extractive publishing. However, openness is not an absolute good. Cultural protocols, copyright, privacy, community expectations, institutional agreements, platform terms, and the risks of harmful reuse may require limiting access. Decisions about sharing should therefore be made deliberately and documented at the project level.
 
-When we publish, we prefer open access journals, small scholar-run journals and journals that are not extractive of university labor, where possible.  Sadly, this is not always possible.
+Code, data, annotations, model outputs, images, and written publications may require different licenses. Do not assume that permission to access or analyze material includes permission to redistribute it.
 
 ### Ethics of Care: Humans and their Data
+
+Some L³ projects analyze publicly available texts or model outputs without directly recruiting human participants. Other projects may involve interviews, surveys, experiments, workshops, usability studies, classroom research, or collaboration with cultural institutions and communities. Whether a project requires IRB review depends on its design and intended use, not simply on whether its materials are available online. Consult the project lead before collecting information from or about people.
+
+L³ studies technologies and representations that can directly affect living people, communities, and institutions. Our research may involve testimony, genocide, racism, antisemitism, displacement, cultural loss, contested histories, or other forms of violence. An ethics of care therefore applies not only to formal human-subjects research but also to dataset construction, model testing, annotation, visualization, quotation, publication, and public communication.
+
+De-identification is not always sufficient to prevent harm, especially when materials concern small communities, identifiable historical experiences, or content that can be recombined with other data. Decisions about quotation, reproduction, and release should account for context, potential discoverability, and the wishes of relevant partners or communities.
+
+
+### Protocol for Researching Generative AI
+Before collecting model outputs, document the research question, systems being compared, access dates, prompt construction, sampling strategy, and expected analytical method.
+Preserve prompts and outputs in their original form whenever possible. Record retries, regenerated responses, interface changes, safety refusals, citations supplied by the system, and any manual editing.
+Separate historical evaluation from system evaluation. A model response may be factually accurate while narratively distorted, incomplete, decontextualized, or epistemically misleading. Conversely, an unusual response is not automatically an error. Evaluation categories should be defined and tested rather than assumed.
+Use historical and domain expertise when constructing ground truth. Institutional sources are important but should not automatically be treated as complete, neutral, or interchangeable with scholarly consensus.
+When comparing proprietary systems, report the limits of reproducibility and avoid implying access to hidden training data, internal reasoning, or system architecture unless such information is independently documented.
+Do not use a generative model to evaluate another model without documenting the evaluator model and validating its judgments against human review.
+
+
+### Working with Cultural Heritage
+
 
 
 
