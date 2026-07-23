@@ -9,6 +9,8 @@ This lab manual draws upon the collectively-honed insights and pathbreaking work
 
 The Manual would not exist in this form without Nick Shapiro's [Carceral Ecologies Lab Book](https://github.com/Carceral-Ecologies/lab_book) and Christopher Kelty's [LAByrinth Project Manual](https://github.com/toubian/labyrinth_manual) from which the structure, content, and aforementioned citations were borrowed with minor edits. 
 
+We have revised these materials to address the particular responsibilities involved in studying artificial intelligence, historical representation, cultural heritage, and computational systems.
+
 ##	__Value Framework__
  
 We communicate our values in the hopes that they will ground our actions and decisions in what we hold important. It is our aspiration that all actions and outputs of the lab are reflective of these values.
