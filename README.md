@@ -19,7 +19,7 @@ We communicate our values in the hopes that they will ground our actions and dec
 ## Glossary of Terms
 [TBD] A glossary of terms we use including our values is located [here](https://docs.google.com/document/d/1MUg2a8ss1DQ60-8iH_SxH5wmgaOH3Ivj1tEVEWpVYyg/edit?usp=sharing).
 
-## The kind of work we do in L3
+## The kind of work we do in L<sup>3</sup>
 
 ### Methods: Curiosity
 
@@ -29,11 +29,11 @@ We communicate our values in the hopes that they will ground our actions and dec
  
  - **observation and being embodied**.  Active being in and with _________ is key to our work.  Although reading is important, being in the city, listening, hearing, smelling, interacting, maybe even participating or intervening, eventually teach you more than reading alone will.  **Noticing** requires going back and forth between reading and being in the city.  Sometimes getting a little bored is also necessary before you notice something.  
 
- - **methods for talking to and with other people**.  A core rule in L3 is the **everyone is expert in something** both us, and the people we might talk to.  We do not extract data from people or try to understand what they think in any other way than by inviting them to conversation.  If collaboration emerges that is fantastic.  If it does not, then we are simply learning, not "doing research". 
+ - **methods for talking to and with other people**.  A core rule in L<sup>3</sup> is the **everyone is expert in something** both us, and the people we might talk to.  We do not extract data from people or try to understand what they think in any other way than by inviting them to conversation.  If collaboration emerges that is fantastic.  If it does not, then we are simply learning, not "doing research". 
  
  - **methods for identifying and gathering "data"**.  Data is made not born.  There is no such thing as raw data.  Every act of creating or analyzing data should be something we investigate, critically review, and double check.  Data---the word--- refers to things that are supposedly given or simply there.  But all data had to begin with noticing.  You do not own the data you collect, it is not yours to do whatever you please with it.  When we make data we make relations with someone or some entity, and those relations come with responsibilities. 
   
-- **methods for creating**.  L3, as a project, tries to preserve the liberty to produce in diverse ways and to engage the creativity and skills of members.  Writing? yes of course, we do that.  but also: thinking about other forms of expression or communication. For our website or for presentations, do we have straightforward findings to communicate, or do we want to challenge audiences to think differently about something, or are working collaboratively with a partner who needs the authority of UCLA research to do what they do? 
+- **methods for creating**.  L<sup>3</sup>, as a project, tries to preserve the liberty to produce in diverse ways and to engage the creativity and skills of members.  Writing? yes of course, we do that.  but also: thinking about other forms of expression or communication. For our website or for presentations, do we have straightforward findings to communicate, or do we want to challenge audiences to think differently about something, or are working collaboratively with a partner who needs the authority of UCLA research to do what they do? 
 
 ## How the Lab works
 
@@ -87,7 +87,7 @@ For a list of UCLA Campus Resources for Student Support please see [this list](h
 
 ### Methods of Support
 
-There are a few different ways we can support your work within the LAByrinth Project, methods of support (detailed below) depend on the capacity in which you join which are as follows: 
+There are a few different ways we can support your work within L<sup>3</sup>, methods of support (detailed below) depend on the capacity in which you join which are as follows: 
 
 * Volunteer - lots of appreciation and the occasional pizza. Great if you want fun research experience and don't need class credit or want to develop your own project. 
 
@@ -110,7 +110,7 @@ There are a few different ways we can support your work within the LAByrinth Pro
 
 #### Supporting Graduate Research
 
-The Labyrinth project will, funding permitting, fund graduate students willing to do a research project at up to ten hours a week for 1 quarter, and/or at 50-100% during the summer.  Every GSR has to be negotiated with Chris, and involves working with undergrads, postdocs or faculty on a project with clear goals.  The Labyrinth project does not fund graduate students to complete dissertation work in their home department (unless Chris happens to be your dissertation advisor). 
+L<sup>3</sup> will, funding permitting, fund graduate students willing to do a research project at up to ten hours a week for 1 quarter, and/or at 50-100% during the summer.  Every GSR has to be negotiated with Chris, and involves working with undergrads, postdocs or faculty on a project with clear goals.  L<sup>3</sup> does not fund graduate students to complete dissertation work in their home department (unless Chris happens to be your dissertation advisor). 
 
 
 ### A Note on Authorship
@@ -118,20 +118,20 @@ The Labyrinth project will, funding permitting, fund graduate students willing t
 Our aim is to give due credit to all; authorship is determined differently based on the medium of publication their requirements. 
 
 * Formal Journals: Authorship distribution is set before work on the deliverable commences.  
-* The LAByrinth Project Website: Undergraduates/Graduates who work on the deliverable will (usually) get full authorship. 
+* L<sup>3</sup> Website: Undergraduates/Graduates who work on the deliverable will (usually) get full authorship. 
 * Other mediums: To be determined before work begins by the authors and Chris. 
 
-## What Resources do I Have Access to as a LAByrinth Member? How Do I Use Them?
+## What Resources do I Have Access to as a lab Member? How Do I Use Them?
 
 ### Spaces
 
-1. Archiving Room: LAByrinth has an archiving room filled with all sorts of fun things. It is located in LSB Floor 3 scross the hall from Chris' office, inside a door, all the way at the end. Ask the ISG Main Office to let you in M-W 5am-5pm, otherwise ask Chris and he will let you in if he is on campus (he usually is). 
+1. Archiving Room: L<sup>3</sup> has an archiving room filled with all sorts of fun things. It is located in LSB Floor 3 scross the hall from Chris' office, inside a door, all the way at the end. Ask the ISG Main Office to let you in M-W 5am-5pm, otherwise ask Chris and he will let you in if he is on campus (he usually is). 
 
-2. ISG hallway outside Archiving Room: There are desks and chairs and a couch outside the archiving room that can be used to work on LAByrinth work, just let Chris, Ana, or Nancy know to let you in.
+2. ISG hallway outside Archiving Room: There are desks and chairs and a couch outside the archiving room that can be used to work on L<sup>3</sup> work, just let Chris, Ana, or Nancy know to let you in.
 
 __Additional Spaces to Know__
 
-1. ISG Conference room: LSB 3318. 3rd floor of the Life Science Building. Next door to Chris's Office. All-Hands LAByrinth meetings are held here (usually) every week. 
+1. ISG Conference room: LSB 3318. 3rd floor of the Life Science Building. Next door to Chris's Office. All-Hands L<sup>3</sup> meetings are held here (usually) every week. 
 
 2. Chris's office: 3rd floor of the Life Science Building. LSB 3314. Next door to the Conference Room. 
 
@@ -141,22 +141,12 @@ __Additional Spaces to Know__
 
 ### Equipment
 
-1. Archive Digitization Equipment:  We maintain a computer and two scanners for archiving materials by digitizing them.  Both are in the labyrinth room. 
+1. 
 
-* EPSON Flatbed scanner.  Good for high quality scans of photos, slides, negatives, or other images.  
-* CZUR Overhead scanner.  Good for text scanning--- e.g. quickly scanning a whole document or book.  Comes with a pedal for quick scanning.
-
-[Here](https://docs.google.com/document/d/1xPFiymsgkl2qoAkapaHHUU75ceXKz9bEDdqObJ7DyWI/edit?usp=sharing) [TBD] are the instructions for operating the Archive computers. 
-
-2. Podcasting: There is audio recording equipment inside the LAByrinth Archive room that is available for LAByrinth members to use. Same procedure as above to be let into the room. [Here](https://docs.google.com/document/d/1XORBLC3S0WE5X4MnDVPWwJwfA0t_GPnzurTZf43C9cc/edit?usp=sharing) [TBD] are the instructions for operating the Podcasting equipment. 
-
-3. Equipment Check-Out: There are small audio recorders and other equipment that can be checked-out for LAByrinth use. [Email](toubian@ucla.edu) Sophia to check equipment out for a limited period of time. 
-
-[ Detailed list and procedure for check out TBD] 
 
 ### I need help with something! Who do I ask?
 
-Internally in The LAByrinth Project our Chief Maze Operator (Sophia) is your first stop for any information or issue, whether it be technical, structural, or even a little bit silly. Reach her by email at toubian@ucla.edu or on discord @toubian. 
+Internally in L<sup>3</sup> our Chief Maze Operator (Sophia) is your first stop for any information or issue, whether it be technical, structural, or even a little bit silly. Reach her by email at toubian@ucla.edu or on discord @toubian. 
 
 If Sophia can't help you (or if you feel the need to go all the way to the top) Chris can be reached by email at ckelty@ucla.edu and on discord @ckelty. 
 
@@ -176,13 +166,11 @@ In addition to all of the above faculty members should:
 * Support your career development  (e.g., by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and letting you attend conferences as often as finances permit)
 * Help you prepare for the next step of your career in the ways that their work and experience can be helpful.
 
-#### Chris (Labyrinth Architect, PI) can be reached by email at ckelty@ucla.edu or on discord @ckelty
-
 #### Sophia (Chief Maze Operator/General Problem Solver/GSR) can be reached by email at toubian@ucla.edu or on discord @toubian
 
 # Land Acknowledgement
 
-The LAByrinth project at UCLA acknowledges the Gabrielino/Tongva peoples as the traditional land caretakers of Tovaangar (the Los Angeles basin and South Channel Islands). As a land grant institution, we pay our respects to the [Honuukvetam](https://soundcloud.com/user-604190014-65178502/ancestors) (Ancestors), [‘Ahiihirom](https://soundcloud.com/user-604190014-65178502/elders) (Elders) and [‘eyoohiinkem](https://soundcloud.com/user-604190014-65178502/our-relatives) (our relatives/relations) past, present and emerging.
+The Large Language Lab at UCLA acknowledges the Gabrielino/Tongva peoples as the traditional land caretakers of Tovaangar (the Los Angeles basin and South Channel Islands). As a land grant institution, we pay our respects to the [Honuukvetam](https://soundcloud.com/user-604190014-65178502/ancestors) (Ancestors), [‘Ahiihirom](https://soundcloud.com/user-604190014-65178502/elders) (Elders) and [‘eyoohiinkem](https://soundcloud.com/user-604190014-65178502/our-relatives) (our relatives/relations) past, present and emerging.
 
 Click on the linked words above to hear the pronunciation for the Tongva-language words and see the map of Tongva territory below.
 
@@ -207,15 +195,15 @@ First thing that will happen as a part of our onboarding proccess is that you wi
 
 * New to Discord? Here's a [tutorial](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
 
-* Now that you understand the platform a bit more, browse the #general channel and any channels related to what you do. Eventually you may need access to our Notion workspace, there you'll find our LAByrinth Wiki, a lab-wide task board, and a lab-wide project board. (Instructions TBD)
+* Now that you understand the platform a bit more, browse the #general channel and any channels related to what you do. Eventually you may need access to our Notion workspace, there you'll find our L<sup>3</sup> Wiki, a lab-wide task board, and a lab-wide project board. (Instructions TBD)
 
-* In the LAByrinth Wiki on Notion you'll need to: 1) gain access to Box, 2) gain access to Miro, 3) gain access to our gCal with meeting times, etc.  
+* In the L<sup>3</sup> Wiki on Notion you'll need to: 1) gain access to Box, 2) gain access to Miro, 3) gain access to our gCal with meeting times, etc.  
 
 * Read this Lab Book!
 
-* Go to the LAByrinth [Website](https://labyrinth.garden) and start reading the backlog of [articles](https://labyrinth.garden/research/) + listening to our [podcast series](https://labyrinth.garden/podcast/) (spotify [here](https://open.spotify.com/show/4QW3ZgP3RddumZdPRLJZzw))
+* Go to the L<sup>3</sup> [Website](https://labyrinth.garden) and start reading the backlog of [articles](https://labyrinth.garden/research/) + listening to our [podcast series](https://labyrinth.garden/podcast/) (spotify [here](https://open.spotify.com/show/4QW3ZgP3RddumZdPRLJZzw))
 
-* Make sure you've completed the relevant [Citi Training](https://about.citiprogram.org/?_ga=2.215811861.302232273.1694824859-363715810.1694824858). For most LAByrinth members this is "Group 1: Human Subjects Research" but if you have questions [email](toubian@ucla.edu) Sophia. 
+* Make sure you've completed the relevant [Citi Training](https://about.citiprogram.org/?_ga=2.215811861.302232273.1694824859-363715810.1694824858). For most lab members this is "Group 1: Human Subjects Research" but if you have questions [email](toubian@ucla.edu) Sophia. 
 
 * Understand lab expectations—manage your own time, solve problems to the best of your ability, use the entire lab as a resource.
 
@@ -225,7 +213,7 @@ First thing that will happen as a part of our onboarding proccess is that you wi
 
 #### A Note on Discord
 
-We use discord for all intra-lab communication. That being said, it can be a fun place! We highly encourage the sharing of relevant media and love to see all of LAByrinth enjoying each other's projects. 
+We use discord for all intra-lab communication. That being said, it can be a fun place! We highly encourage the sharing of relevant media and love to see all of L<sup>3</sup> enjoying each other's projects. 
 
 ### Exiting the Lab
 
@@ -251,7 +239,7 @@ The lab uses Notion to keep track of us as a whole.
 
 ### Wiki
 
-The LAByrinth Wiki on Notion serves as our home page and collection of resources. Here you will find links to the website, gCal, Box, Miro, etc. There is also a link to this Manual. 
+The L<sup>3</sup> Wiki on Notion serves as our home page and collection of resources. Here you will find links to the website, gCal, Box, Miro, etc. There is also a link to this Manual. 
 
 ### Projects
 
