@@ -13,7 +13,7 @@ We have revised these materials to address the particular responsibilities invol
 
 ##	__Value Framework__
  
-We communicate our values in the hopes that they will ground our actions and decisions in what we hold important. It is our aspiration that all actions and outputs of the lab are reflective of these values.
+We communicate our values in the hopes that they will ground our actions and decisions in what we hold important. They guide how we formulate questions, build datasets, interpret model outputs, collaborate with partners, assign credit, and communicate findings.
 
 1.**Intellectual and methodological rigor.** We hold our work to standards of accuracy, transparency, reproducibility, and careful interpretation.
 2. **Historical and situated awareness.** We attend to where technologies, datasets, institutions, and researchers are located, and why those locations matter.
