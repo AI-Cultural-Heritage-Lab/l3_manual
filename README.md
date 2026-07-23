@@ -15,10 +15,12 @@ We have revised these materials to address the particular responsibilities invol
  
 We communicate our values in the hopes that they will ground our actions and decisions in what we hold important. It is our aspiration that all actions and outputs of the lab are reflective of these values.
 
-1. Highest possible quality work, by standards we hold ourselves to.
-2. Critical local awareness (Understand where you are and why it matters to you and others)
-3. Participation and Autonomy: Everyone brings something.
-4. Humor, Joy, Curiosity.
+1.**Intellectual and methodological rigor.** We hold our work to standards of accuracy, transparency, reproducibility, and careful interpretation.
+2. **Historical and situated awareness.** We attend to where technologies, datasets, institutions, and researchers are located, and why those locations matter.
+3. **Participation and autonomy.** Everyone brings knowledge, experience, and interpretive capacity to the lab.
+4. **Care and accountability.** We recognize that research about historical violence, cultural memory, and living communities creates responsibilities that cannot be reduced to technical compliance.
+5. **Critical technical practice.** We use computational methods without treating their outputs as neutral, self-explanatory, or inherently authoritative.
+5. **Humor, joy, and curiosity.** Serious research can remain experimental, generous, and sustaining.
 
 ## Glossary of Terms
 [TBD] A glossary of terms we use including our values is located [here](https://docs.google.com/document/d/1MUg2a8ss1DQ60-8iH_SxH5wmgaOH3Ivj1tEVEWpVYyg/edit?usp=sharing).
