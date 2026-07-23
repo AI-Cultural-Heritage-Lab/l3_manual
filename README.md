@@ -242,18 +242,18 @@ We use slack for all intra-lab communication. That being said, it can be a fun p
 
 [TBD]
 
-<!-- * Communal round robin during a meeting: what we valued about your work with us. -->
-<!-- * Exit interview. -->
+* Communal round robin during a meeting: what we valued about your work with us.
+* Exit interview.
 
-<!-- Exit interview: -->
-<!-- 1. How was your overall experience working in the lab? -->
-<!-- 2. How did your fellow lab members make you feel / how did you feel in the lab environment (approachable? Comfortable to talk to to? Easy to work with?...) -->
-<!-- 3. What is the most valuable thing you learned? What else did you learn? -->
-<!-- 4. How do you think your work/experience in the lab could have been different? -->
-<!-- 5. What stood in the way of you getting your work done (if anything)?  -->
-<!-- 6. What would you like to learn that you didn’t get to? -->
-<!-- 7. Would you like to come back to work in the lab? If so, what would you choose to work on? -->
-<!-- 8. Is there anything else about your experiences that you would like to share? -->
+Exit interview: 
+1. How was your overall experience working in the lab?
+2. How did your fellow lab members make you feel / how did you feel in the lab environment (approachable? Comfortable to talk to to? Easy to work with?...)
+3. What is the most valuable thing you learned? What else did you learn? 
+4. How do you think your work/experience in the lab could have been different? 
+5. What stood in the way of you getting your work done (if anything)? 
+6. What would you like to learn that you didn’t get to?
+7. Would you like to come back to work in the lab? If so, what would you choose to work on?
+8. Is there anything else about your experiences that you would like to share?
 
 ## Project Management Protocol
 
