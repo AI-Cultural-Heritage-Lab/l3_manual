@@ -1,11 +1,11 @@
 
 The Following is a *draft* version of our lab book. As a draft it may contain errors and may need improved citation. Please submit a pull request to suggest any changes
 
-# The LAByrinth Project Lab Manual
+# The Large Language Lab Manual
 
 This lab manual draws upon the collectively-honed insights and pathbreaking work of the Civic Laboratory for Environmental Action Research (CLEAR), a feminist, anti-colonial lab specializing in monitoring plastic pollution, directed by Max Liboiron. See the Jan 1, 2018 snapshot of [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). In particular lab guidelines 1-8 were drawn directly from the CLEAR Lab Book and then adapted with minor edits. The value framework blurb as well as the onboarding and exiting protocols are directly drawn from the CLEAR Lab Book. Text on faculty responsibilities is almost entirely from the [Aly Lab Book](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf) and that lab book also inspired some language in the Work Autonomously guideline. The child care guideline is entirely in debt to Kate Cairns syllabus policy you can see [here](https://twitter.com/katefcairns/status/1222274604426825730/photo/1). 
 
-The Manual would not exist in this form without Nick Shapiro's [Carceral Ecologies Lab Book](https://github.com/Carceral-Ecologies/lab_book) from which the structure, content, and aforementioned citations were borrowed with minor edits. 
+The Manual would not exist in this form without Nick Shapiro's [Carceral Ecologies Lab Book](https://github.com/Carceral-Ecologies/lab_book) and Christopher Kelty's [LAByrinth Project Manual](https://github.com/toubian/labyrinth_manual) from which the structure, content, and aforementioned citations were borrowed with minor edits. 
 
 [Labyrinth Overview](./Labyrinth-Overview.jpg)
 <img src="Labyrinth-Overview.jpg" width="400">
