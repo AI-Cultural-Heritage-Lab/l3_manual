@@ -23,17 +23,17 @@ We communicate our values in the hopes that they will ground our actions and dec
 
 ### Methods: Curiosity
 
- - **reading**.  Becoming an expert on anything can only happen by reading a lot.  Lab members are curious, read widely, share what they are learning, and recognize how difficult it is to know a lot of diverse stuff.   Reading comes in many forms: slow, fast, deep, close, surface, familiar, unfamiliar, active, passive...  but what they all share is that you are building your own conceptual labyrinth by reading, and you have to have the curiosity and patience to do that if you want to do research. 
+ - **Reading**.  Becoming an expert on anything can only happen by reading a lot.  Lab members are curious, read widely, share what they are learning, and recognize how difficult it is to know a lot of diverse stuff.   Reading comes in many forms: slow, fast, deep, close, surface, familiar, unfamiliar, active, passive...  but what they all share is that you are building your own conceptual labyrinth by reading, and you have to have the curiosity and patience to do that if you want to do research. 
 
- - **thinking with concepts, inquiry**.  Finding **concepts** to work with means identifying ideas that have weight, complexity and specificity.  Sometimes we are given these concepts to think about, for instance "ethics of teaching about the Holocaust with AI", and sometimes we have to change or invent them to make progress. 
+ - **Thinking with concepts, inquiry**.  Finding **concepts** to work with means identifying ideas that have weight, complexity and specificity.  Sometimes we are given these concepts to think about, for instance "ethics of teaching about the Holocaust with AI", and sometimes we have to change or invent them to make progress. 
  
- - **observation and being embodied**.  Active being in and with each other, survivors, and the world is key to our work.  Although reading is important, being in on campus, listening, hearing, smelling, interacting, maybe even participating or intervening, will eventually teach you more than reading alone.  **Noticing** requires going back and forth between reading and being.  Sometimes getting a little bored is also necessary before you notice something. 
+ - **Observation and being embodied**.  Active being in and with each other, survivors, and the world is key to our work.  Although reading is important, being in on campus, listening, hearing, smelling, interacting, maybe even participating or intervening, will eventually teach you more than reading alone.  **Noticing** requires going back and forth between reading and being.  Sometimes getting a little bored is also necessary before you notice something. 
 
- - **methods for talking to and with other people**.  A core rule in L<sup>3</sup> is the **everyone is expert in something** both us, and the people we might talk to.  We do not extract data from people or try to understand what they think in any other way than by inviting them to conversation.  If collaboration emerges that is fantastic.  If it does not, then we are simply learning, not "doing research". 
+ - **Methods for talking to and with other people**.  A core rule in L<sup>3</sup> is the **everyone is expert in something** both us, and the people we might talk to.  We do not extract data from people or try to understand what they think in any other way than by inviting them to conversation.  If collaboration emerges that is fantastic.  If it does not, then we are simply learning, not "doing research". 
  
- - **methods for identifying and gathering "data"**.  Data is made not born.  There is no such thing as raw data.  Every act of creating or analyzing data should be something we investigate, critically review, and double check.  Data---the word--- refers to things that are supposedly given or simply there.  But all data had to begin with noticing.  We do not own the data we collect, it is not ours to do whatever you please with it.  When we make data we make relations with someone or some entity, and those relations come with responsibilities. 
+ - **Methods for identifying and gathering "data"**.  Data is made not born.  There is no such thing as raw data.  Every act of creating or analyzing data should be something we investigate, critically review, and double check.  Data---the word--- refers to things that are supposedly given or simply there.  But all data had to begin with noticing.  We do not own the data we collect, it is not ours to do whatever you please with it.  When we make data we make relations with someone or some entity, and those relations come with responsibilities. 
   
-- **methods for creating**.  L<sup>3</sup>, as a project, tries to preserve the liberty to produce in diverse ways and to engage the creativity and skills of members.  Writing? yes of course, we do that.  but also: thinking about other forms of expression or communication. For our website or for presentations, do we have straightforward findings to communicate, or do we want to challenge audiences to think differently about something, or are working collaboratively with a partner who needs the authority of UCLA research to do what they do? 
+- **Methods for creating**.  L<sup>3</sup>, as a project, tries to preserve the liberty to produce in diverse ways and to engage the creativity and skills of members.  Writing? yes of course, we do that.  but also: thinking about other forms of expression or communication. For our website or for presentations, do we have straightforward findings to communicate, or do we want to challenge audiences to think differently about something, or are working collaboratively with a partner who needs the authority of UCLA research to do what they do? 
 
 ## How the Lab works
 
@@ -43,7 +43,7 @@ We communicate our values in the hopes that they will ground our actions and dec
   
   - **We do exploratory research.**  this means, for the most part, that we don't always know why we are doing something at the outset.  If we did, it wouldn't be research.  Sometimes that means we go down a path a long way before we stop and admit that it isn't leading anywhere.  Trust your intuitions, because they are what we rely on to find out interesting things. Check in frequently and talk about what you are trying to do. 
   
-  - **A pedagogical experiment** For *grad students*, the lab is an opportunity to do research outside of your dissertation and outside of your normal methods, if you want.  There are no rules or regulations other than the values listed above for the kind of work you do with the lab, and neither the lab nor the PI/Postdocs  make any claim on your dissertation work.  For *undergrads* the goal should be to experience research from start to finish, and to learn a set of skills that can be used in both research and non-research settings. 
+  - **A pedagogical experiment** For *grad students*, the lab is an opportunity to do research outside of your dissertation and outside of your normal methods, if you want.  There are no rules or regulations other than the values listed above for the kind of work you do with the lab, and neither the lab nor the PI/Postdocs  make any claim on your dissertation work.  For *undergrads* the goal should be to experience starting and finishing research, and to learn a set of skills that can be used in both research and non-research settings. 
 
  -  **Hierarchy for some things, equality for most everything else**  Figure out how, when and what you will be responsible for together with others.  No one will tell you want to do in the lab, but you can always ask what you can do and propose things you think you would like to do.  
 
@@ -57,22 +57,25 @@ We communicate our values in the hopes that they will ground our actions and dec
 
 For a list of UCLA Campus Resources for Student Support please see [this list](https://docs.google.com/document/d/1RC9_vNrYTN9sylZM7HySeh21iTXRzwaUdBdo6_ngg00/edit?usp=sharing).
 
-2. *Attend lab and working group meetings.* Lab meetings (1.5 hrs/week) and pillar meetings (1 hr/week) are the main ways that we operate as an entire lab, and as a community. All-hands lab meetings are where we discuss the values, concepts, goals, and ideas that underlie all our work as a lab, and therefore are where we work out how and why we work. Without the meetings, we are just some people working on some stuff. If you are not going to make a lab meeting, note it _______________. You *don't need to explain why* you won't be in attendance. 
+2. *Attend general and pillar meetings.* General meetings (1 hr/week) and pillar meetings (1 hr/week each) are the main ways that we operate as an entire lab, and as a community. General lab meetings are where we discuss the values, concepts, goals, and ideas that underlie all our work as a lab, and therefore are where we work out how and why we work. Without the meetings, we are just some people working on some stuff. If you are not going to make a lab meeting, note it on Slack. You *don't need to explain why* you won't be in attendance. 
 
- - Pillar meetings ____________
-    
-    Here are some ways to structure working group meetings:
-    * 
 
-3. *Work autonomously, with others*. We trust and depend on you to get your projects done, and there won’t be a lot of oversight to ensure that is happening. Chris cares for the lab as a whole, while lab members care for projects, each other, and themselves. Our work is collaborative not competitive. Respect each others strengths and weaknesses. We will all inevitably struggle with some aspect of our work. When you need help, reach out to other lab members. **We expect that you are able to ask for help when you need it, and to problem solve.** We are all here to help. You are always welcome to check in with Chris or Sophia, but you were invited to join the lab because you’re smart and can figure things out, so try that first. Mistakes will be made. That’s cool. We admit our mistakes and we communicate them to others so that mistakes aren't repeated and then we move on.
+- Pillar meetings are (currently) made up of the following groups:
+  1. Technical Team
+  2. Education
+  3. Narrative Analysis
+  4. LLM Interpretability
+  5. Social Media 
 
-4. *Take care of each other, and yourself*. When you first start, work in pairs so other lab members are there to answer questions or lend a hand. If you notice other lab members are struggling, provide whatever support you can, or tell someone that you think can help them. Listen to each other or respect each others desire for quiet when we need it. Lab members are always encouraged to speak their mind and communicate their concerns/questions. You can always bring Sophia or Chris in to provide concrete support if you or another lab member requires it.
+3. *Work autonomously, with others*. We trust and depend on you to get your projects done, and there won’t be a lot of oversight to ensure that is happening. Todd cares for the lab as a whole, while lab members care for projects, each other, and themselves. Our work is collaborative not competitive. Respect each others strengths and weaknesses. We will all inevitably struggle with some aspect of our work. When you need help, reach out to other lab members. **We expect that you are able to ask for help when you need it, and to problem solve.** We are all here to help. You are always welcome to check in with Todd or any of the leadership team, but you were invited to join the lab because you’re smart and can figure things out, so try that first. Mistakes will be made. That’s cool. We admit our mistakes and we communicate them to others so that mistakes aren't repeated and then we move on.
+
+4. *Take care of each other, and yourself*. When you first start, work in groups so other lab members are there to answer questions or lend a hand. If you notice other lab members are struggling, provide whatever support you can, or tell someone that you think can help them. Listen to each other or respect each others desire for quiet when we need it. Lab members are always encouraged to speak their mind and communicate their concerns/questions. You can always bring Todd or any of the leadership team in to provide concrete support if you or another lab member requires it.
 
 5. *Take breaks*! Studies have shown that taking regular breaks makes you more productive. It’s also important to care for yourself.
 
-6. *Take your ideas seriously*. Many of the lab tasks are for ongoing projects in which we are beholden to community groups, granters, or others. But we are always interested in new projects or new ways of doing ongoing projects. We’re especially interested in ideas for how to make our work more feminist, decolonial, ethical, and equitable. If you have an idea for something you want to explore or develop, let us know! Post your idea in #kindling channel (and let people know in #general that you've posted it). {Kindling protocol, under development}
+6. *Take your ideas seriously*. Many of the lab tasks are for ongoing projects in which we are beholden to community groups, granters, or others. But we are always interested in new projects or new ways of doing ongoing projects. We’re especially interested in ideas for how to make our work more interesting, ethical, and equitable. If you have an idea for something you want to explore or develop, let us know! Post your idea in #random channel (and let people know in #general that you've posted it).
 
-7. *Honor each other's time*. Because the lab is member-run, if you are meeting others, it is important that you are on time so that others are not waiting for you. If you’re running late, text ahead and let people know when you expect to arrive. You can also use discord but people's notifications may not be setup to get the message in a timely way, so its best to get the numbers of folks you're meeting up with *before* you’re late. We understand that things comes up and clear communication is the way we stay our course when one of us is running late or has to reconsider the extent of their commitments to our collective work. Honoring each other's time is not just about showing up when we say we will but also routinely appreciating the labor and time of other members. This is everyday work, but significant moments or efforts can additionally be recognized in the #appreciation channel. 
+7. *Honor each other's time*. If you are meeting others, it is important that you are on time so that others are not waiting for you. If you’re running late, message ahead and let people know when you expect to arrive. You can also use Slack but people's notifications may not be setup to get the message in a timely way, so its best to get the numbers/emails of folks you're meeting up with *before* you’re late. We understand that things comes up and clear communication is the way we stay our course when one of us is running late or has to reconsider the extent of their commitments to our collective work. Honoring each other's time is not just about showing up when we say we will but also routinely appreciating the labor and time of other members. This is everyday work, but significant moments or efforts can additionally be recognized in the #general channel. 
 
 8. *Acknowledge the shoulders & Land you stand on*. When you make presentations from the work that has happened in the lab, always include an acknowledgment page as your last slide that thanks people who contributed in various ways by name, as well as the lab itself. For papers, do the same with author orders and citation.  Find a way to honor and acknowledge the place you are in, which includes an Indigenous Land Acknowledgment in some way.  You can follow UCLA's protocol for Land Acknowledgment [here](https://chancellor.ucla.edu/messages/acknowledging-native-peoples-ucla-events/), or you can go beyond it if appropriate. 
 
@@ -82,35 +85,35 @@ For a list of UCLA Campus Resources for Student Support please see [this list](h
 
 11. *Child Care*. Some people have care responsibilities for a child or children in their life, whether as a parent, an older sibling, cousin, etc. If your childcare needs ever come into conflict with the lab schedule, please don't feel as though you need to miss a lab meeting. We understand that sometimes plans fall though. If this happens, you are welcome to bring a child to lab meetings or lab work with you. We simply ask that you bring materials to keep them busy, and remain mindful of your classmates. 
 
-12. *Animals*.  Animals are welcome in the lab, and appreciated, but please check in with the other members first if you can, not everyone has the same levels of comfort.  In a pinch a pet can hang out in Chris's office.  The campus also has rules about animals, which you should be mindful of. 
+12. *Animals*.  Animals are welcome in the lab, and appreciated, but please check in with the other members first if you can, not everyone has the same levels of comfort.  The campus also has rules about animals, which you should be mindful of. 
 
 
 ### Methods of Support
 
 There are a few different ways we can support your work within L<sup>3</sup>, methods of support (detailed below) depend on the capacity in which you join which are as follows: 
 
-* Volunteer - lots of appreciation and the occasional pizza. Great if you want fun research experience and don't need class credit or want to develop your own project. 
+* Auditor - lots of appreciation and the occasional pizza. Great if you want fun research experience and don't need class credit or want to develop your own project. 
 
-* Class Credit - HBS majors and Society + Genetics minors can enroll in a Winter SOC GEN 196 class for unit credit. This requires project development and individual deliverables which are decided on at the beginning of the quarter by you and Chris. 
+* Class Credit - DH majors and minors can enroll for unit credit. This requires project development and individual deliverables which are decided on at the beginning of the quarter by you and Todd. 
 
-* Spring/Summer Research - After enrolling in and completing a Winter 196 class students can further develop their projects as undergraduate researchers for the lab and be paid to do so through Spring and Summer. 
+* Undergraduate Researcher - After completing a quarter as an auditor, students can further develop their projects as undergraduate researchers for the lab and be paid to do so through Fall, Winter, Spring and Summer. 
 
 
 #### Supporting Undergraduate Research
 
-* Undergraduate Research Fellows Program (Due October 15 – November 15)[link](http://sciences.ugresearch.ucla.edu/programs-and-scholarships/urfp)
+* Undergraduate Research Fellows Program [link](http://sciences.ugresearch.ucla.edu/programs-and-scholarships/urfp)
 
-* Library Undergrad research awards (Due April 1st) [link](https://www.library.ucla.edu/research-teaching-support/support-students/showcasing-student-achievement/library-prize-undergraduate-research) humanities, social science, and arts [here](http://hass.ugresearch.ucla.edu/scholarships/urfp/)
+* Library Undergrad research awards [link](https://www.library.ucla.edu/research-teaching-support/support-students/showcasing-student-achievement/library-prize-undergraduate-research) humanities, social science, and arts [here](http://hass.ugresearch.ucla.edu/scholarships/urfp/)
 
 * Summer Programs for Undergraduate Research (various due dates, early spring) [link](https://grad.ucla.edu/admissions/diversity/summer-programs-for-undergraduate-research-spur/)
 
-* Undergrad Research Week (Spring) [Link](https://urweek.ugresearch.ucla.edu/) + Dean's prize (Spring) [Link](https://urweek.ugresearch.ucla.edu/apply/#deansprize)
+* Undergrad Research Week (Spring) [link](https://urweek.ugresearch.ucla.edu/) + Dean's prize (Spring) [link](https://urweek.ugresearch.ucla.edu/apply/#deansprize)
 
 * LAEP [link](https://financialaid.ucla.edu/special-aid-programs/learning-aligned-education-program)
 
 #### Supporting Graduate Research
 
-L<sup>3</sup> will, funding permitting, fund graduate students willing to do a research project at up to ten hours a week for 1 quarter, and/or at 50-100% during the summer.  Every GSR has to be negotiated with Chris, and involves working with undergrads, postdocs or faculty on a project with clear goals.  L<sup>3</sup> does not fund graduate students to complete dissertation work in their home department (unless Chris happens to be your dissertation advisor). 
+L<sup>3</sup> will, funding permitting, fund graduate students willing to do a research project at up to ten hours a week for 1 quarter, and/or at 50-100% during the summer.  Every GSR has to be negotiated with Todd, and involves working with undergrads, postdocs or faculty on a project with clear goals. 
 
 
 ### A Note on Authorship
@@ -119,43 +122,31 @@ Our aim is to give due credit to all; authorship is determined differently based
 
 * Formal Journals: Authorship distribution is set before work on the deliverable commences.  
 * L<sup>3</sup> Website: Undergraduates/Graduates who work on the deliverable will (usually) get full authorship. 
-* Other mediums: To be determined before work begins by the authors and Chris. 
+* Other mediums: To be determined before work begins by the authors and Todd. 
 
 ## What Resources do I Have Access to as a lab Member? How Do I Use Them?
 
 ### Spaces
 
-1. Archiving Room: L<sup>3</sup> has an archiving room filled with all sorts of fun things. It is located in LSB Floor 3 scross the hall from Chris' office, inside a door, all the way at the end. Ask the ISG Main Office to let you in M-W 5am-5pm, otherwise ask Chris and he will let you in if he is on campus (he usually is). 
-
-2. ISG hallway outside Archiving Room: There are desks and chairs and a couch outside the archiving room that can be used to work on L<sup>3</sup> work, just let Chris, Ana, or Nancy know to let you in.
+1. 
 
 __Additional Spaces to Know__
 
-1. ISG Conference room: LSB 3318. 3rd floor of the Life Science Building. Next door to Chris's Office. All-Hands L<sup>3</sup> meetings are held here (usually) every week. 
-
-2. Chris's office: 3rd floor of the Life Science Building. LSB 3314. Next door to the Conference Room. 
-
-3. ISG Main office: LSB 3360, down the hall to the right from the conference room.
-
-4. Bathrooms.  Mens bathroom, down the hall to the right from the conference room.  Women's bathroom, down the hall to the left from the conference room, then turn right, then turn left.
+1. 
 
 ### Equipment
 
 1. 
 
-
 ### I need help with something! Who do I ask?
 
-Internally in L<sup>3</sup> our Chief Maze Operator (Sophia) is your first stop for any information or issue, whether it be technical, structural, or even a little bit silly. Reach her by email at toubian@ucla.edu or on discord @toubian. 
+Internally in L<sup>3</sup> Aileen is your first stop for any information or issue, whether it be technical, structural, or even a little bit silly. Reach her by email at [aileentang12345@gmail.com](mailto:aileentang12345@gmail.com) or on Slack. 
 
-If Sophia can't help you (or if you feel the need to go all the way to the top) Chris can be reached by email at ckelty@ucla.edu and on discord @ckelty. 
+Our postdocs Kathryn and Ulysses can be reached by email or Slack at [huetherk@ucla.edu](mailto:huetherk@g.ucla.edu) and [upascal@ucla.edu](mailto:upascal@ucla.edu), respectively.
 
-Externally, the lovely folks in the ISG office can help you with most other things. For issues regarding: 
+Sophia is also available at [toubian@ucla.edu](mailto:toubian@ucla.edu) or on Slack if needed.
 
-* Classes (196, etc.) -  Frenz Cabison, Student Academic Advisor [email](frenz@socgen.ucla.edu)
-* Reimbursements - Nancy Corona, Purchaser/Administrative Coordinator [email](nancy@socgen.ucla.edu)
-* GSRs - Victoria Guerrero, Academic Personnel Coordinator [email](victoria@socgen.ucla.edu)
-* Anything the above three cannot help with, such as Building Safety/Access or any issues you cannot bring to the lab or PI - Ana Wevill, Chief Administrative Officer [email](ana@socgen.ucla.edu)
+If Aileen, Kathryn, Ulysses, or Sophia can't help you (or if you feel the need to go all the way to the top) Todd can be reached by email at [presner@humnet.ucla.edu](mailto:presner@humnet.ucla.edu). 
 
 ### Faculty Member Duties
 
@@ -166,7 +157,6 @@ In addition to all of the above faculty members should:
 * Support your career development  (e.g., by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and letting you attend conferences as often as finances permit)
 * Help you prepare for the next step of your career in the ways that their work and experience can be helpful.
 
-#### Sophia (Chief Maze Operator/General Problem Solver/GSR) can be reached by email at toubian@ucla.edu or on discord @toubian
 
 # Land Acknowledgement
 
@@ -174,53 +164,57 @@ The Large Language Lab at UCLA acknowledges the Gabrielino/Tongva peoples as the
 
 Click on the linked words above to hear the pronunciation for the Tongva-language words and see the map of Tongva territory below.
 
-[![click this map](./Gabrielino-Tongva.png)](https://native-land.ca/api/embed/embed.html?maps=languages&name=tongva)
-Image Via [native-land.ca/](native-land.ca/)
-
-* For more information on the Indigenous repatriation via NAGPRA and UCLA's role see [Carrying Our Ancestors Home](http://www.coah-repat.com) "an educational tool for people seeking to understand the process and diversity of returning ancestral remains and cultural items as well as the impact of repatriation on Indigenous communities around the world."
-
-* For more information on Indigenous LA, the city in what is now known as the US with the largest Indigenous population, See [Mapping Indigenous LA](https://mila.ss.ucla.edu).
-
-* To better understand the 13,399,104 (inflation-adjusted) dollars that the University of California gained though the land grants of the Morrill Act that disposessed Indigenous people though violence-backed land cessions, see [Land Grab Universities](https://www.landgrabu.org/universities).
-
 ## Lab Protocols 
 
 Guidelines are general rules and principles, whereas protocols are precise and detailed plans that maintain practices across our group and within science, social science, and organizing—it defines the way we *ought* to proceed in different situations.
 
+### Privacy
 
-### Onboarding to the lab
+
+
+
+
+### Ethical interactions with sensitive material
+
+
+
+### Our structure
+
+- pillars
+- whole
+- leadership
+- what are we doing
+
+
+
+## Onboarding to the lab
 Welcome to the lab!
 
-First thing that will happen as a part of our onboarding proccess is that you will be invited to our discord.  @ckelty or @toubian can issue invites to Discord. Once in Discord:
+First thing that will happen as a part of our onboarding proccess is that you will be invited to our Slack. Aileen or Sophia can issue invites to Slack. Once in Slack:
 
-* New to Discord? Here's a [tutorial](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
+* New to Slack? Here's a [tutorial](https://slack.com/intl/en-gb/help/categories/360000049063).
 
-* Now that you understand the platform a bit more, browse the #general channel and any channels related to what you do. Eventually you may need access to our Notion workspace, there you'll find our L<sup>3</sup> Wiki, a lab-wide task board, and a lab-wide project board. (Instructions TBD)
+* Now that you understand the platform a bit more, browse the #general channel and any channels related to what you do.
 
-* In the L<sup>3</sup> Wiki on Notion you'll need to: 1) gain access to Box, 2) gain access to Miro, 3) gain access to our gCal with meeting times, etc.  
+* You'll also need to: 1) gain access to the main Google Drive folder, 2) get on our email list, 3) gain access to our gCal with meeting times, etc. 4) gain access to our shared Zotero.
 
 * Read this Lab Book!
 
-* Go to the L<sup>3</sup> [Website](https://labyrinth.garden) and start reading the backlog of [articles](https://labyrinth.garden/research/) + listening to our [podcast series](https://labyrinth.garden/podcast/) (spotify [here](https://open.spotify.com/show/4QW3ZgP3RddumZdPRLJZzw))
-
-* Make sure you've completed the relevant [Citi Training](https://about.citiprogram.org/?_ga=2.215811861.302232273.1694824859-363715810.1694824858). For most lab members this is "Group 1: Human Subjects Research" but if you have questions [email](toubian@ucla.edu) Sophia. 
+* Go to the L<sup>3</sup> [Website](https://www.largelanguagelab.org) and start reading the backlog of [publications](https://www.largelanguagelab.org/publications) 
 
 * Understand lab expectations—manage your own time, solve problems to the best of your ability, use the entire lab as a resource.
 
-* Start a schedule of tasks—what are you going to work on, when? Work with your project group to delegate. Ask Sophia to help you with this (if you need help).
+* Start a schedule of tasks—what are you going to work on, when? Work with your project group to delegate. Ask for help with this (if you need help).
 
-* Lastly, we order food to some of our All-Hands lab meetings and want everyone to enjoy what we get! Please send Sophia an [email](toubian@ucla.edu) if you have any dietary restrictions (or preferences) and we will do our absolute best to accommodate! There will always be vegetarian options present, but let us know if you are vegan, gluten-free, lactose intolerant, or just really don't like bell peppers. Also always feel free to bring your own food to meetings if you prefer to do so. 
+#### A Note on Slack
 
-#### A Note on Discord
-
-We use discord for all intra-lab communication. That being said, it can be a fun place! We highly encourage the sharing of relevant media and love to see all of L<sup>3</sup> enjoying each other's projects. 
+We use slack for all intra-lab communication. That being said, it can be a fun place! We highly encourage the sharing of relevant media and love to see all of L<sup>3</sup> enjoying each other's projects. 
 
 ### Exiting the Lab
 
 [TBD]
 
 <!-- * Communal round robin during a meeting: what we valued about your work with us. -->
-<!-- * Make sure you've returned all borrowed equipment (recorders, etc.) -->
 <!-- * Exit interview. -->
 
 <!-- Exit interview: -->
@@ -235,19 +229,7 @@ We use discord for all intra-lab communication. That being said, it can be a fun
 
 ## Project Management Protocol
 
-The lab uses Notion to keep track of us as a whole. 
-
-### Wiki
-
-The L<sup>3</sup> Wiki on Notion serves as our home page and collection of resources. Here you will find links to the website, gCal, Box, Miro, etc. There is also a link to this Manual. 
-
-### Projects
-
-The Projects page is set up such that the whole lab knows what's being worked on. Inputs are sorted by status, and then by group and have room for notes internally. This space is for planning out and completing long(ish)-term, broader parts of the 3 main projects. 
-
-### Tasks
-
-The Tasks page serves as a masterlist of all the detailed tasks that need to be carried out under all the broader projects within groups. Each tasks needs a (somewhat strong) deadline and a person assigned to it. Tasks are each group's responsibility to come up with, log, and complete - they are not assigned by Chris or Sophia. 
+The lab uses Google Drive, Slack, and email to keep track of us as a whole. 
 
 ### Licensing
 
@@ -255,27 +237,8 @@ When we want to encourage the free and fair sharing of our work without cost, we
 
 When we publish, we prefer open access journals, small scholar-run journals and journals that are not extractive of university labor, where possible.  Sadly, this is not always possible.
 
-For the podcast series, we publish the podcast to listen to freely but not to copy and redistribute.  Our aim is not to make money on what we do, but to simply make it widely available, as permanently as possible.
-
-### Research on Humans and Animals
-
-We study animals, but not directly (yet).  For the time being none of our projects involve direct interaction with animals, only humans who know something about humans.  Participant-based fieldwork with such people may require training in animal care and ethical research, always ask. 
-
 ### Ethics of Care: Humans and their Data
 
-As a lab that does a lot of ethnographic research, we work with other humans frequently. As such, we have adopted an ethics of care that prioritizes the communities and individuals that we work with. All our work with humans falls under the UCLA IRB when necessary, and all applicable lab members are required to have the relevant [Citi Training](https://about.citiprogram.org/?_ga=2.215811861.302232273.1694824859-363715810.1694824858). 
 
-The current IRB for the Labyrinth Project is IRB#17-000297  
 
-Consult with Chris if you need consent forms, sample questions, etc. for an interview.  Please do not conduct interviews unless you have had both CITI and Labyrinth training and instruction on doing it well. 
-
-Most of the data that we publish about humans (in any medium) is either made pseudo-anonymous or completely anonymous, any decision not to do so should be made by the subject and approved by Chris in alignment with IRB guidelines. 
-
-### Playlists
-
-#### [Labyrinth Podcast](https://open.spotify.com/show/4QW3ZgP3RddumZdPRLJZzw?go=1&sp_cid=4cec07c7e86c00b9df919db1009138b6&utm_source=embed_player_p&utm_medium=desktop&nd=1)
-
-#### [Los Angeles Playlist](https://open.spotify.com/embed/playlist/0UszJsDdPdaJmWDT2flPI4?utm_source=generator)
-
-#### [Helicopter Playlist](https://open.spotify.com/embed/playlist/5LJAMuLfFmEgKHgUeLHPbM?utm_source=generator)
 
