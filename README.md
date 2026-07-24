@@ -27,8 +27,6 @@ We communicate our values in the hopes that they will ground our actions and dec
 
 ## The kind of work we do in L<sup>3</sup>
 
-### Methods: Curiosity
-
  - **Reading**.  Expertise requires sustained reading across fields. Lab members read broadly in information studies, artificial intelligence, history, cultural heritage, archival studies, critical data studies, science and technology studies, and relevant area-specific scholarship. Reading may be slow, fast, close, comparative, technical, or exploratory. In every form, its purpose is to develop the historical and conceptual judgment necessary to interpret computational results rather than merely produce them.
 
  - **Thinking with concepts, inquiry**.  Sometimes a project begins with an established question, such as how generative AI represents the Holocaust, cultural heritage, or historical evidence. At other times, existing concepts prove inadequate and must be revised or created. Concepts such as hallucination, accuracy, bias, omission, authority, evidence, testimony, narrative, and “vibe” should never be treated as self-evident categories. Part of our work is determining what these terms mean, how they can be operationalized, and what they obscure.
