@@ -1,9 +1,9 @@
 
 The Following is a *draft* version of our lab book. As a draft it may contain errors and may need improved citation. Please submit a pull request to suggest any changes
 
-# The Large Language Lab Manual
+# The "Large Language Lab" Manual 
 
-The Large Language Lab (L<sup>3</sup>) studies how large language models and related AI systems produce, transform, organize, and circulate historical and cultural knowledge. Our work combines humanistic inquiry, computational analysis, archival research, critical data studies, and collaborative public scholarship.
+The Large Language Lab (L<sup>3</sup>) @ UCLA studies how large language models and related AI systems produce, transform, organize, and circulate historical and cultural knowledge. Our work combines humanistic inquiry, computational analysis, archival research, critical data studies, and collaborative public scholarship.
 
 This lab manual draws upon the collectively-honed insights and pathbreaking work of the Civic Laboratory for Environmental Action Research (CLEAR), a feminist, anti-colonial lab specializing in monitoring plastic pollution, directed by Max Liboiron. See the Jan 1, 2018 snapshot of [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). In particular lab guidelines 1-8 were drawn directly from the CLEAR Lab Book and then adapted with minor edits. The value framework blurb as well as the onboarding and exiting protocols are directly drawn from the CLEAR Lab Book. Text on faculty responsibilities is almost entirely from the [Aly Lab Book](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf) and that lab book also inspired some language in the Work Autonomously guideline. The child care guideline is entirely in debt to Kate Cairns syllabus policy you can see [here](https://twitter.com/katefcairns/status/1222274604426825730/photo/1). 
 
