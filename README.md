@@ -13,14 +13,14 @@ We have revised these materials to address the particular responsibilities invol
 
 ##	__Value Framework__
  
-We communicate our values in the hopes that they will ground our actions and decisions in what we hold important. They guide how we formulate questions, build datasets, interpret model outputs, collaborate with partners, assign credit, and communicate findings.
+We communicate our values in the hopes that they will ground our actions and decisions in what we hold important. They guide how we formulate questions, build datasets, interpret model outputs, collaborate with partners, assign credit, and communicate findings. 
 
-1.**Intellectual and methodological rigor.** We hold our work to standards of accuracy, transparency, reproducibility, and careful interpretation.
+1. **Intellectual and methodological rigor.** We hold our work to standards of accuracy, transparency, reproducibility, and careful interpretation.
 2. **Historical and situated awareness.** We attend to where technologies, datasets, institutions, and researchers are located, and why those locations matter.
 3. **Participation and autonomy.** Everyone brings knowledge, experience, and interpretive capacity to the lab.
 4. **Care and accountability.** We recognize that research about historical violence, cultural memory, and living communities creates responsibilities that cannot be reduced to technical compliance.
 5. **Critical technical practice.** We use computational methods without treating their outputs as neutral, self-explanatory, or inherently authoritative.
-6. **Humor, joy, and curiosity.** Serious research can remain experimental, generous, and sustaining.
+6. **Humor, joy, and curiosity.** Serious research can remain experimental, generous, and sustaining. 
 
 ## Glossary of Terms
 [TBD] A glossary of terms we use including our values is located [here](https://docs.google.com/document/d/1MUg2a8ss1DQ60-8iH_SxH5wmgaOH3Ivj1tEVEWpVYyg/edit?usp=sharing).
