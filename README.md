@@ -66,7 +66,7 @@ For a list of UCLA Campus Resources for Student Support please see [this list](h
 
 2. *Attend general and pillar meetings.* General meetings (1 hr/week) and pillar meetings (1 hr/week each) are the main ways that we operate as an entire lab, and as a community. General lab meetings are where we discuss the values, concepts, goals, and ideas that underlie all our work as a lab, and therefore are where we work out how and why we work. Without the meetings, we are just some people working on some stuff. If you are not going to make a lab meeting where people are expecting and relying on your attendance, note it on Slack. You *don't need to explain why* you won't be in attendance. 
 
-   - Pillars are working groups organized around a shared method, research problem, or area of activity. They operate concurrently under the larger umbrella of the Large Language Lab. There is usually a significant overlap in team memebrs from one pillar to another. Pillar meetings are (currently) made up of the following groups:
+  - Pillars are working groups organized around a shared method, research problem, or area of activity. They operate concurrently under the larger umbrella of the Large Language Lab. There is usually a significant overlap in team memebrs from one pillar to another. Pillar meetings are (currently) made up of the following groups:
     1. Technical Team
     2. Education
     3. Narrative Analysis
@@ -106,7 +106,7 @@ For a list of UCLA Campus Resources for Student Support please see [this list](h
 
 There are a few different ways we can support your work within L<sup>3</sup>, methods of support (detailed below) depend on the capacity in which you join which are as follows: 
 
-* Auditor - lots of appreciation and the occasional pizza. Great if you want fun research experience and don't need class credit or want to develop your own project. 
+* Auditor - lots of appreciation and the occasional pizza. Great if you want fun research experience and don't need class credit or want to develop your own project. * One quarter of auditing is a prerequisite for joining as an undergraduate researcher.
 
 * Class Credit - DH majors and minors can enroll for unit credit. This requires project development and individual deliverables which are decided on at the beginning of the quarter by you and Todd. 
 
