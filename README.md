@@ -25,7 +25,7 @@ We communicate our values in the hopes that they will ground our actions and dec
 ## Glossary of Terms
 [TBD] A glossary of terms we use including our values is located [here](https://docs.google.com/document/d/1MUg2a8ss1DQ60-8iH_SxH5wmgaOH3Ivj1tEVEWpVYyg/edit?usp=sharing).
 
-## The kind of work we do in L<sup>3</sup>
+## The kind of work we do in L<sup>3</sup> 
 
  - **Reading**.  Expertise requires sustained reading across fields. Lab members read broadly in information studies, artificial intelligence, history, cultural heritage, archival studies, critical data studies, science and technology studies, and relevant area-specific scholarship. Reading may be slow, fast, close, comparative, technical, or exploratory. In every form, its purpose is to develop the historical and conceptual judgment necessary to interpret computational results rather than merely produce them.
 
