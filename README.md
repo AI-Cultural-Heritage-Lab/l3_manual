@@ -196,11 +196,45 @@ In addition to all of the above faculty members should:
 
 
 ## Protocols Under Development
-Guidelines are general rules and principles, whereas protocols are precise and detailed plans that maintain practices across our group and within science, social science, and organizing—it defines the way we *ought* to proceed in different situations.
+Guidelines are general rules and principles, whereas protocols are more precise plans for how we proceed in recurring situations. They help us translate our values into practice across humanistic research, computational work, institutional collaboration, and the everyday organization of the Lab. 
 
-The following protocols are being developed and will be added to future versions of this manual:
-- Privacy, access, and data security
-- Ethical interaction with sensitive historical materials
+Protocols cannot anticipate every possible situation. If you encounter something that is not covered here, pause and ask. The absence of a rule does not mean that anything goes, especially when a decision may affect sensitive materials, research participants, authorship, institutional partners, or data security. 
+
+These protocols will change as our projects, partnerships, tools, and responsibilities change.
+
+### Privacy, access, and data security
+L<sup>3</sup> works with many different kinds of materials. Some are public and easily shareable. Others may be unpublished, restricted, personally identifiable, owned by a partner institution, protected by copyright, or culturally sensitive. Public availability does not automatically mean that material is ethically unrestricted or appropriate to collect, redistribute, or upload into an AI system.
+Before beginning work with a new dataset, archive, platform, or collection, make sure you understand:
+
+- How the Lab obtained access;
+- Who owns or is responsible for the material;
+- What restrictions apply to its use;
+- Who needs access within the Lab;
+- Where the material should be stored;
+- Whether it can be shared outside the project team;
+- Whether it can be entered into external software or AI systems; and
+- What should happen to it when the project ends.
+
+Access should be based on project responsibilities, not simply on being a member of the Lab. Not everyone needs access to every dataset, folder, account, or partner collection. 
+
+Store Lab work in approved shared spaces whenever possible. Research materials should not exist only on a personal laptop, personal cloud account, or private repository. Follow the folder structure, file-naming system, and documentation practices established by the project so that other members can find and understand your work. 
+
+Do not share passwords, API keys, access tokens, or private credentials in shared documents, Slack channels, screenshots, presentations, or public repositories. If you think a credential has been exposed, tell the project lead or technical team immediately. 
+
+Never enter confidential, restricted, personally identifiable, unpublished, copyrighted partner material, or culturally sensitive information into a public or personally managed AI system without explicit authorization from the project lead and, where applicable, the relevant partner. 
+
+When using an external AI platform, remember that prompts, uploaded materials, and outputs may be stored, reviewed, or reused by the company operating the platform. Check the project’s rules before uploading anything that is not clearly approved for public use. 
+
+When working with information about people, collect only what the project actually needs. Removing names does not always make a dataset anonymous, especially when the material involves a small community, a distinctive historical experience, or information that can be combined with other sources. 
+
+If data is lost, exposed, shared with the wrong person, or used in a way that may violate an agreement, report it immediately. Do not try to  correct a data-security problem without telling the people responsible for the project. 
+
+### Ethical interaction with sensitive historical materials
+
+
+
+
+
 - Lab, pillar, and project decision-making
 - Leadership roles and escalation procedures
 - Project formation, approval, and review
