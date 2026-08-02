@@ -5,12 +5,6 @@ The Following is a *draft* version of our lab book. As a draft it may contain er
 
 [The Large Language Lab (L<sup>3</sup>)](https://largelanguagelab.com) @ UCLA investigates how large language models and related AI systems produce, transform, organize, and circulate historical and cultural knowledge. Our work combines humanistic inquiry, computational analysis, archival research, critical data studies, and collaborative public scholarship. Led by Professor [Todd Presner](https://elts.ucla.edu/person/todd-presner/), the lab brings together an interdisciplinary team of researchers spanning history, literature, information studies, computer science, data science, and digital humanities. Our work combines computational methods and humanistic inquiry, applying AI to large-scale cultural heritage archives while also studying how generative AI systems themselves construct, distort, and mediate historical knowledge.
 
-Attribution note: This lab manual draws upon the collectively-honed insights and pathbreaking work of the Civic Laboratory for Environmental Action Research (CLEAR), a feminist, anti-colonial lab specializing in monitoring plastic pollution, directed by Max Liboiron. See the Jan 1, 2018 snapshot of [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). In particular lab guidelines 1-8 were drawn directly from the CLEAR Lab Book and then adapted with minor edits. The value framework blurb as well as the onboarding and exiting protocols are directly drawn from the CLEAR Lab Book. Text on faculty responsibilities is almost entirely from the [Aly Lab Book](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf) and that lab book also inspired some language in the Work Autonomously guideline. The child care guideline is entirely in debt to Kate Cairns syllabus policy you can see [here](https://twitter.com/katefcairns/status/1222274604426825730/photo/1). 
-
-The Manual would not exist in this form without Nick Shapiro's [Carceral Ecologies Lab Book](https://github.com/Carceral-Ecologies/lab_book) and Christopher Kelty's [LAByrinth Project Manual](https://github.com/toubian/labyrinth_manual) from which the structure, content, and aforementioned citations were borrowed with minor edits. 
-
-We have revised these materials to address the particular responsibilities involved in studying artificial intelligence, historical representation, cultural heritage, and computational systems.
-
 ##	__Value Framework__
  
 We communicate our values in the hopes that they will ground our actions and decisions about what we hold important. They guide how we formulate research questions, build datasets, interpret model outputs, collaborate with partners, assign credit, and communicate findings. 
@@ -195,7 +189,24 @@ In addition to all of the above faculty members should:
 * Help you prepare for the next step of your career in the ways that their work and experience can be helpful.
 
 
-## Protocols Under Development
+### Ethics of Care: Humans and their Data
+
+Some L³ projects analyze publicly available texts or model outputs without directly recruiting human participants. Other projects may involve interviews, surveys, experiments, workshops, usability studies, classroom research, or collaboration with cultural institutions and communities. Whether a project requires IRB review depends on its design and intended use, not simply on whether its materials are available online. Consult the project lead before collecting information from or about people.
+
+L³ studies technologies and representations that can directly affect living people, communities, and institutions. Our research may involve testimony, genocide, racism, antisemitism, displacement, cultural loss, contested histories, or other forms of violence. An ethics of care therefore applies not only to formal human-subjects research but also to dataset construction, model testing, annotation, visualization, quotation, publication, and public communication.
+
+De-identification is not always sufficient to prevent harm, especially when materials concern small communities, identifiable historical experiences, or content that can be recombined with other data. Decisions about quotation, reproduction, and release should account for context, potential discoverability, and the wishes of relevant partners or communities.
+
+### Researching Generative AI
+Before collecting model outputs, document the research question, systems being compared, access dates, prompt construction, sampling strategy, and expected analytical method.
+Preserve prompts and outputs in their original form whenever possible. Record retries, regenerated responses, interface changes, safety refusals, citations supplied by the system, and any manual editing.
+Separate historical evaluation from system evaluation. A model response may be factually accurate while narratively distorted, incomplete, decontextualized, or epistemically misleading. Conversely, an unusual response is not automatically an error. Evaluation categories should be defined and tested rather than assumed.
+Use historical and domain expertise when constructing ground truth. Institutional sources are important but should not automatically be treated as complete, neutral, or interchangeable with scholarly consensus.
+When comparing proprietary systems, report the limits of reproducibility and avoid implying access to hidden training data, internal reasoning, or system architecture unless such information is independently documented.
+Do not use a generative model to evaluate another model without documenting the evaluator model and validating its judgments against human review.
+
+
+## Protocols
 Guidelines are general rules and principles, whereas protocols are more precise plans for how we proceed in recurring situations. They help us translate our values into practice across humanistic research, computational work, institutional collaboration, and the everyday organization of the Lab. 
 
 Protocols cannot anticipate every possible situation. If you encounter something that is not covered here, pause and ask. The absence of a rule does not mean that anything goes, especially when a decision may affect sensitive materials, research participants, authorship, institutional partners, or data security. 
@@ -229,24 +240,144 @@ When working with information about people, collect only what the project actual
 
 If data is lost, exposed, shared with the wrong person, or used in a way that may violate an agreement, report it immediately. Do not try to  correct a data-security problem without telling the people responsible for the project. 
 
+
 ### Ethical interaction with sensitive historical materials
+Much of our work involves histories of genocide, war, racism, antisemitism, displacement, testimony, cultural loss, and other forms of violence. These materials are not simply content to process. They may represent lived experiences, evidence, family histories, sacred or culturally restricted knowledge, or the words of people who could not have anticipated their future computational use. 
+
+Before using sensitive historical materials, ask:
+- Who created this material?
+- Under what conditions was it created?
+- Who preserved, described, or digitized it?
+- How did it enter the archive, dataset, or platform?
+- Are there restrictions on access, quotation, or reproduction?
+- Who may be affected by its reuse?
+- Does the project have the historical, cultural, or linguistic expertise needed to interpret it responsibly?
+
+Computational processing does not remove historical context. A testimony, photograph, archival record, or description of violence should not be treated as interchangeable with any other unit of text or data. 
+
+When quoting or reproducing sensitive material, include only what is necessary for the analysis. Graphic, hateful, degrading, or fabricated content should not be reproduced for shock value. Consider whether paraphrase, redaction, a content warning, restricted access, or a descriptive summary would communicate the finding without unnecessarily repeating harm. 
+
+Always distinguish clearly between historical evidence and AI-generated representation. Fabricated testimony, invented quotations, synthetic images, and model-generated historical narratives must never be presented in a way that could be mistaken for authentic archival material. 
+
+Research on denial, hate speech, disinformation, racism, or antisemitism may unintentionally increase the visibility of the material being studied. Think carefully about whether a screenshot, quotation, dataset release, or public link is necessary. The fact that something is analytically interesting does not automatically mean that it should be reproduced in full. 
+
+Historical expertise should be part of the project from the beginning, not added after the computational analysis is complete. If you do not have the necessary expertise, ask for help before making strong claims. 
+
+Archives, museums, and established historical sources are important, but they are not automatically complete or neutral. Pay attention to archival silences, cataloguing systems, institutional priorities, unequal preservation, and the conditions that made some voices more visible than others.
+ 
+Working with violent or hateful material can be emotionally difficult. Tell your project lead if sustained exposure is affecting you. No one should be expected to absorb harmful material silently. 
 
 
+### Lab, pillar, and project decision-making
+Decisions happen at three connected levels: the Lab as a whole, the pillar, and the individual project. In general, decisions should be made by the people closest to the work, unless they affect multiple groups, external partners, funding, ethics, the Lab’s public identity, or shared resources. 
 
+#### Lab-Wide Decisions
+Lab-wide decisions concern the shared direction and operation of L<sup>3</sup>. These may include: 
+- Changes to the Lab’s mission or major research priorities;
+- New institutional partnerships;
+- Changes to shared policies or protocols;
+- The creation or reorganization of pillars;
+- Allocation of shared resources;
+- Adoption of major technical platforms;
+- Lab-wide events or publications; and
+- Public statements made in the name of the Lab.
 
+These decisions should usually be discussed in a general meeting or through another process that gives affected members an opportunity to contribute. 
 
-- Lab, pillar, and project decision-making
-- Leadership roles and escalation procedures
-- Project formation, approval, and review
+Not every decision will be made by consensus. The person responsible for the final decision should be clear, and the reasoning should be communicated when the decision materially affects other people’s work. 
 
+#### Pillar Decisions
+Pillars are working groups organized around shared methods, research problems, or areas of activity. They allow us to collaborate more specifically to coordinate work across multiple projects.
 
-### Our structure
+Pillars are responsible for:
+- Sharing methods, tools, and documentation;
+- Coordinating related projects;
+- Identifying training needs;
+- Reviewing work in progress;
+- Proposing new directions;
+- Identifying connections between projects; and
+- Sharing relevant developments with the Lab as a whole.
 
-- pillars
-- whole
-- leadership
-- what are we doing
+Each pillar should have at least one person who helps coordinate meetings, communication, and shared responsibilities. This does not mean that the pillar lead owns all the work or makes every decision. 
 
+Decisions that affect only one pillar can usually be made within that pillar. Decisions that affect another pillar should be discussed with that group before being implemented. 
+
+#### Project Decisions
+Each project usually has a clearly identified project lead. Project leads are responsible for keeping the project coherent, feasible, documented, and aligned with the Lab’s values. 
+
+The people doing the work should be able to make routine methodological and operational decisions. Larger decisions should involve the project lead and affected collaborators. These may include: 
+- Changing the research question;
+- Substantially changing the dataset or sample;
+- Adding a new partner;
+- Changing the project’s central claims;
+- Changing authorship expectations;
+- Releasing data, code, or other materials;
+- Submitting or publishing work;
+- Using restricted materials in a new context; or
+- Changing the timeline or deliverable in a way that affects others.
+
+Projects should keep a short decision log for major changes. This does not need to record every conversation. It should note what changed, when it changed, who was involved, and why the decision was made.
+
+#### Disagreement
+Disagreement is normal in interdisciplinary research. Not every disagreement needs to be resolved into one position.
+When people disagree, first clarify whether the disagreement concerns: 
+- Interpretation;
+- Method;
+- Evidence;
+- Project organization;
+- Credit;
+- Ethics; or
+- Interpersonal conduct.
+
+Interpretive disagreements may remain open when more than one reading is defensible. Methodological disagreements should be addressed by returning to the research question and considering which approach best supports the claims being made. 
+
+Concerns involving ethics, safety, credit, misuse of authority, or harmful conduct should not be treated as ordinary intellectual disagreement. 
+
+When a decision must be made without consensus, the person with the relevant responsibility should make the decision and explain it to those affected. Important limitations or dissenting interpretations should be documented rather than hidden. 
+
+### Leadership Roles and Escalation Procedures
+The Lab is collaborative, but it is not structureless. Different members hold different responsibilities for funding, grants, supervision, partnerships, publications, technical systems, project management, and research ethics.
+Leadership is meant to make those responsibilities clearer, not create unnecessary layers of authority.
+
+#### Lab Director (Todd Presner)
+The Lab Director holds overall institutional responsibility for L<sup>3</sup>. This includes:
+- The Lab’s research direction;
+- Major partnerships;
+- Funding and grant obligations;
+- Faculty supervision;
+- Major authorship or conduct disputes;
+- Allocation of major shared resources; and
+- Work publicly presented in the name of the Lab.
+The Lab Director should is not the only person available for routine questions or support.
+
+#### Leadership Team
+The leadership team includes faculty, postdocs, graduate researchers, technical leads, and other designated members.
+The leadership team helps:
+- Coordinate work across pillars;
+- Review proposed projects;
+- Maintain shared resources and practices;
+- Support onboarding and training;
+- Respond to ethical, interpersonal, or security concerns; and
+- Maintain continuity as people and projects change.
+
+#### Pillar Leads
+Pillar leads help coordinate a shared area of work. Their responsibilities may include:
+- Organizing pillar meetings;
+- Helping members identify tasks and collaborators;
+- Sharing pillar developments with the wider Lab;
+- Identifying technical, methodological, or ethical issues;
+- Maintaining basic documentation; and
+- Bringing unresolved concerns to the leadership team.
+
+#### Project Leads
+Project leads coordinate a specific project. They are responsible for:
+- Defining and maintaining the scope of the project;
+- Clarifying roles and expectations;
+- Coordinating outputs;
+- Ensuring that the work is documented;
+- Initiating credit and authorship conversations;
+- Identifying ethical and data-security concerns; and
+- Making sure junior members receive appropriate guidance.
 
 
 ## Onboarding to the lab
@@ -303,29 +434,15 @@ Public availability does not eliminate contextual integrity, copyright, privacy,
 
 Code, data, annotations, model outputs, images, and written publications may require different licenses. Do not assume that permission to access or analyze material includes permission to redistribute it.
 
-### Ethics of Care: Humans and their Data
-
-Some L³ projects analyze publicly available texts or model outputs without directly recruiting human participants. Other projects may involve interviews, surveys, experiments, workshops, usability studies, classroom research, or collaboration with cultural institutions and communities. Whether a project requires IRB review depends on its design and intended use, not simply on whether its materials are available online. Consult the project lead before collecting information from or about people.
-
-L³ studies technologies and representations that can directly affect living people, communities, and institutions. Our research may involve testimony, genocide, racism, antisemitism, displacement, cultural loss, contested histories, or other forms of violence. An ethics of care therefore applies not only to formal human-subjects research but also to dataset construction, model testing, annotation, visualization, quotation, publication, and public communication.
-
-De-identification is not always sufficient to prevent harm, especially when materials concern small communities, identifiable historical experiences, or content that can be recombined with other data. Decisions about quotation, reproduction, and release should account for context, potential discoverability, and the wishes of relevant partners or communities.
-
-
-### Protocol for Researching Generative AI
-Before collecting model outputs, document the research question, systems being compared, access dates, prompt construction, sampling strategy, and expected analytical method.
-Preserve prompts and outputs in their original form whenever possible. Record retries, regenerated responses, interface changes, safety refusals, citations supplied by the system, and any manual editing.
-Separate historical evaluation from system evaluation. A model response may be factually accurate while narratively distorted, incomplete, decontextualized, or epistemically misleading. Conversely, an unusual response is not automatically an error. Evaluation categories should be defined and tested rather than assumed.
-Use historical and domain expertise when constructing ground truth. Institutional sources are important but should not automatically be treated as complete, neutral, or interchangeable with scholarly consensus.
-When comparing proprietary systems, report the limits of reproducibility and avoid implying access to hidden training data, internal reasoning, or system architecture unless such information is independently documented.
-Do not use a generative model to evaluate another model without documenting the evaluator model and validating its judgments against human review.
-
-
 ### Working with Cultural Heritage
 Cultural heritage materials are not merely content inputs. They may be evidence, testimony, sacred or culturally restricted knowledge, institutional records, artistic works, or traces of historical violence. Their digitization and computational analysis do not erase the conditions under which they were created, preserved, described, or made accessible.
 When working with archives, museums, libraries, or community collections, respect the institution’s access conditions and the knowledge of its staff. Document how cataloguing systems, collection histories, digitization choices, and archival absences affect the claims a project can make.
 AI-generated representations of the past should be evaluated not only for factual correctness but also for omission, narrative framing, homogenization, attribution, evidentiary grounding, and the displacement of historically situated voices.
 
 
+#### Attribution note: 
+This lab manual draws upon the collectively-honed insights and pathbreaking work of the Civic Laboratory for Environmental Action Research (CLEAR), a feminist, anti-colonial lab specializing in monitoring plastic pollution, directed by Max Liboiron. See the Jan 1, 2018 snapshot of [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). In particular lab guidelines 1-8 were drawn directly from the CLEAR Lab Book and then adapted with minor edits. The value framework blurb as well as the onboarding and exiting protocols are directly drawn from the CLEAR Lab Book. Text on faculty responsibilities is almost entirely from the [Aly Lab Book](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf) and that lab book also inspired some language in the Work Autonomously guideline. The child care guideline is entirely in debt to Kate Cairns syllabus policy you can see [here](https://twitter.com/katefcairns/status/1222274604426825730/photo/1). 
 
+The Manual would not exist in this form without Nick Shapiro's [Carceral Ecologies Lab Book](https://github.com/Carceral-Ecologies/lab_book) and Christopher Kelty's [LAByrinth Project Manual](https://github.com/toubian/labyrinth_manual) from which the structure, content, and aforementioned citations were borrowed with minor edits. 
 
+We have revised these materials to address the particular responsibilities involved in studying artificial intelligence, historical representation, cultural heritage, and computational systems.
