@@ -173,7 +173,7 @@ Digital Spaces:
 
 Internally in L<sup>3</sup> Aileen is your first stop for any information or issue, whether it be technical, structural, or even a little bit silly. Reach her by email at [aileentang12345@gmail.com](mailto:aileentang12345@gmail.com) or on Slack. 
 
-Our postdocs Kathryn and Ulysses can be reached by email or Slack at [huetherk@ucla.edu](mailto:huetherk@g.ucla.edu) and [upascal@ucla.edu](mailto:upascal@ucla.edu), respectively.
+Our academic coordinator, Kathryn, and postdoc, Ulysses can be reached by email or Slack at [huetherk@g.ucla.edu](mailto:huetherk@g.ucla.edu) and [upascal@ucla.edu](mailto:upascal@ucla.edu), respectively.
 
 Sophia is also available at [toubian@ucla.edu](mailto:toubian@ucla.edu) or on Slack if needed.
 
