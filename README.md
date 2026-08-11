@@ -5,7 +5,58 @@ The Following is a *draft* version of our lab book. As a draft it may contain er
 
 [The Large Language Lab (L<sup>3</sup>)](https://largelanguagelab.com) @ UCLA investigates how large language models and related AI systems produce, transform, organize, and circulate historical and cultural knowledge. Our work combines humanistic inquiry, computational analysis, archival research, critical data studies, and collaborative public scholarship. Led by Professor [Todd Presner](https://elts.ucla.edu/person/todd-presner/), the lab brings together an interdisciplinary team of researchers spanning history, literature, information studies, computer science, data science, and digital humanities. Our work combines computational methods and humanistic inquiry, applying AI to large-scale cultural heritage archives while also studying how generative AI systems themselves construct, distort, and mediate historical knowledge.
 
-##	__Value Framework__
+## L³ Practical Guide
+
+**If you are new to the Lab, start here.** This page summarizes the everyday expectations and practices you need to participate in L³. The rest of this manual explains the values, reasoning, structures, and protocols behind them in greater detail.
+
+### Show up, communicate, and know what you are working on
+* Attend the weekly **general Lab meeting** and the meetings for your **pillar(s)**. 
+* Know your **pillar, project, project lead, responsibilities, and current deliverable**.
+* Work autonomously and problem-solve where you can, but ask for help when you need it. Do not struggle silently with ethical, technical, security, interpersonal, or historically sensitive problems.
+* Check in before making changes that substantially affect a project's research question, dataset, claims, timeline, partners, authorship, or public outputs.
+* Document major research and computational decisions as you make them.
+
+### Use shared Lab infrastructure
+* Slack is our primary space for day-to-day Lab communication.
+* Keep Lab materials in the appropriate shared Google Drive, approved repository, or computational environment, rather than only on a personal device or account.
+* Use the shared Google Calendar for meetings and Zotero for shared references.
+* Follow the folder structure, file-naming, documentation, and project-management practices established by your project.
+
+### Protect data and research materials
+* Before using a dataset or collection, know **where it came from, who is responsible for it, what restrictions apply, where it can be stored, and who can access it**.
+* Never put confidential, restricted, personally identifiable, unpublished, copyrighted partner, or culturally sensitive material into a public or personally managed AI system without explicit authorization.
+* Never share passwords, API keys, access tokens, or other credentials in Slack, shared documents, screenshots, presentations, or public repositories.
+* If data or credentials are lost, exposed, or shared incorrectly, **tell the project lead or technical team immediately**.
+
+### Treat AI outputs as research objects
+* Record the **model, access date/version, prompts, relevant settings, sampling procedure, and transformations** used in your research.
+* Verify factual claims and model-generated citations against appropriate sources.
+* Treat model outputs as **claims or objects of analysis, not sources of historical authority**.
+* Clearly distinguish AI-generated material from authentic historical or archival material.
+
+### Work responsibly with people and historical materials
+* Do not assume that something is ethically unrestricted simply because it is publicly accessible.
+* Use sensitive, violent, hateful, testimonial, archival, or culturally restricted materials only to the extent necessary for the research.
+* Ask for historical, cultural, linguistic, ethical, or methodological expertise when you need it.
+* Raise concerns involving ethics, security, interpersonal conflict, historical sensitivity, or potential harm early.
+
+### Collaborate and give credit
+* Share knowledge, methods, documentation, and emerging findings with your collaborators.
+* Credit conceptual, historical, technical, administrative, curatorial, and relational labor proportionately.
+* When presenting Lab work, acknowledge the Lab, contributors, partners, funders, and relevant archives or institutions.
+
+### When you need help
+For routine questions, start with **your project or pillar collaborators and existing documentation**. If you still need help, contact **Aileen**. Kathryn, Ulysses, and Sophia are also available for support. Bring unresolved, sensitive, institutional, or major project concerns to the appropriate member of the leadership team or Todd.
+
+**When in doubt, ask.** The Lab values autonomy, but autonomy does not mean handling consequential uncertainty alone. The full manual below explains these expectations, the principles behind them, and the protocols for specific situations.
+
+---
+
+# Full L³ Lab Manual
+
+The Practical Guide summarizes the most immediately applicable expectations in this section. The full guidelines below provide additional context, examples, and rationale.
+
+## Value Framework
  
 We communicate our values in the hopes that they will ground our actions and decisions about what we hold important. They guide how we formulate research questions, build datasets, interpret model outputs, collaborate with partners, assign credit, and communicate findings. 
 
