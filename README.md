@@ -3,7 +3,7 @@ The Following is a *draft* version of our lab book. As a draft it may contain er
 
 # The "Large Language Lab" Manual 
 
-[The Large Language Lab (L<sup>3</sup>)](https://largelanguagelab.com) @ UCLA investigates how large language models and related AI systems produce, transform, organize, and circulate historical and cultural knowledge. Our work combines humanistic inquiry, computational analysis, archival research, critical data studies, and collaborative public scholarship. Led by Professor [Todd Presner](https://elts.ucla.edu/person/todd-presner/), the lab brings together an interdisciplinary team of researchers spanning digital humanities, history, information studies, computer science, data science, and cultural studies. Our work combines computational methods and humanistic inquiry, applying AI to large-scale cultural heritage archives while also studying how generative AI systems themselves construct, distort, and mediate historical knowledge. Focal areas of the lab include: 1). AI and Extremism -- how AI can be used to distort the past and propagate misinformation, especially around the Holocaust; 2). Prompting the Past -- how AI-generated language is shaping and reshaping historical narratives; 3). AI Forensics -- a deep dive into how AI systems work and how they can be interpreted; 4.) AI and Cultural Heritage -- a partnership with museums and libraries to use AI for expanding research and access to archival materials.
+[The Large Language Lab (L<sup>3</sup>)](https://largelanguagelab.com) @ UCLA investigates how large language models and related AI systems produce, transform, organize, and circulate historical and cultural knowledge. Our work combines humanistic inquiry, computational analysis, archival research, critical data studies, and collaborative public scholarship. Led by Professor [Todd Presner](https://elts.ucla.edu/person/todd-presner/), the lab brings together an interdisciplinary team of researchers spanning digital humanities, history, information studies, computer science, data science, and cultural studies. Our work combines computational methods and humanistic inquiry, applying AI to large-scale cultural heritage archives while also studying how generative AI systems themselves construct, distort, and mediate historical knowledge. Focal areas of the lab include: 1). AI and Extremism -- how AI can be used to distort the past and propagate misinformation, especially around the Holocaust; 2). Prompting the Past -- how AI-generated language is shaping and reshaping historical narratives; 3). AI Forensics -- a deep dive into how AI systems work technically; 4.) AI and Cultural Heritage -- a partnership with museums and libraries to use AI for expanding research and education.
 
 ## L³ Practical Guide
 
@@ -11,7 +11,7 @@ The Following is a *draft* version of our lab book. As a draft it may contain er
 
 ### Show up, communicate, and know what you are working on
 * Attend the weekly **general Lab meeting** and the meetings for your **pillar(s)**. 
-* Know your **pillar, project, project lead, responsibilities, and current deliverable**.
+* Know your **pillar, project, project lead, responsibilities, and current deliverables**.
 * Work autonomously and problem-solve where you can, but ask for help when you need it. Do not struggle silently with ethical, technical, security, interpersonal, or historically sensitive problems.
 * Check in before making changes that substantially affect a project's research question, dataset, claims, timeline, partners, authorship, or public outputs.
 * Document major research and computational decisions as you make them.
@@ -24,7 +24,7 @@ The Following is a *draft* version of our lab book. As a draft it may contain er
 
 ### Protect data and research materials
 * Before using a dataset or collection, know **where it came from, who is responsible for it, what restrictions apply, where it can be stored, and who can access it**.
-* Never put confidential, restricted, personally identifiable, unpublished, copyrighted partner, or culturally sensitive material into a public or personally managed AI system without explicit authorization.
+* Never put confidential, restricted, personally identifiable, unpublished, copyrighted partner, or culturally sensitive material into a public or personally managed AI system. Never post such materials online or in any public forum outside the lab. 
 * Never share passwords, API keys, access tokens, or other credentials in Slack, shared documents, screenshots, presentations, or public repositories.
 * If data or credentials are lost, exposed, or shared incorrectly, **tell the project lead or technical team immediately**.
 
@@ -34,16 +34,16 @@ The Following is a *draft* version of our lab book. As a draft it may contain er
 * Treat model outputs as **claims or objects of analysis, not sources of historical authority**.
 * Clearly distinguish AI-generated material from authentic historical or archival material.
 
-### Work responsibly with people and historical materials
+### Work responsibly with people, sensitive content, and historical materials
 * Do not assume that something is ethically unrestricted simply because it is publicly accessible.
-* Use sensitive, violent, hateful, testimonial, archival, or culturally restricted materials only to the extent necessary for the research.
+* Be aware that some of the material we work with contains highly sensitive, violent, or hateful content. All material (including testimonial, archival, or culturally-restricted content) should also be treated with sensitivity. Please take care that such material is not distributed beyond the research teams working with it.
 * Ask for historical, cultural, linguistic, ethical, or methodological expertise when you need it.
 * Raise concerns involving ethics, security, interpersonal conflict, historical sensitivity, or potential harm early.
 
 ### Collaborate and give credit
 * Share knowledge, methods, documentation, and emerging findings with your collaborators.
 * Credit conceptual, historical, technical, administrative, curatorial, and relational labor proportionately.
-* When presenting Lab work, acknowledge the Lab, contributors, partners, funders, and relevant archives or institutions.
+* When presenting Lab work, acknowledge the Lab, contributors, partners, funders, and relevant archives or institutions. Usually a screenshot of the Lab, the lab participants, and/or relevant funders is appropriate. 
 
 ### When you need help
 For routine questions, start with **your project or pillar collaborators and existing documentation**. If you still need help, contact **Aileen**. Kathryn, Ulysses, and Sophia are also available for support. Bring unresolved, sensitive, institutional, or major project concerns to the appropriate member of the leadership team or Todd.
@@ -63,7 +63,7 @@ We communicate our values in the hopes that they will ground our actions and dec
 1. **Intellectual and methodological rigor.** We hold our work to the highest standards of accuracy, transparency, reproducibility, and interpretation.
 2. **Historical and situated awareness.** We attend to where technologies, datasets, institutions, and researchers are located, and why those locations matter.
 3. **Participation and autonomy.** Everyone brings knowledge, experience, and interpretive capacity to the lab.
-4. **Care and accountability.** We recognize that research about historical violence, cultural memory, and living communities creates responsibilities that cannot be reduced to technical compliance. Survivors of violence are not just "data" to analyze. 
+4. **Care and accountability.** We recognize that research about historical violence, cultural memory, and living communities creates responsibilities that cannot be reduced to technical compliance. Survivors of violence are not just "data" to analyze. We study and analyze hate speech, but stand unequivocally against reproducing it.
 5. **Critical technical practice.** We use computational methods without treating their outputs as neutral, self-explanatory, or inherently authoritative.
 6. **Humor, joy, and curiosity.** Serious research can remain experimental, generous, and sustaining. It can bring joy and foster curiosity. 
 
@@ -73,20 +73,20 @@ We communicate our values in the hopes that they will ground our actions and dec
 ## The kind of work we do in L<sup>3</sup> 
 
 ### Methods for curiosity. 
- - **Reading**.  Expertise requires sustained reading across many fields. Lab members read broadly in information studies, artificial intelligence, history, cultural heritage, archival studies, critical data studies, science and technology studies, and relevant area-specific scholarship. Reading may be slow, fast, close, comparative, technical, or exploratory. In every form, its purpose is to develop the historical and conceptual judgment necessary to interpret computational results rather than merely produce them.
+ - **Reading**.  Expertise requires sustained reading across many fields. Lab members read broadly in information studies, artificial intelligence, history, cultural heritage, archival studies, critical data studies, science and technology studies, and relevant area-specific scholarship. Reading may be slow, fast, close, comparative, technical, or exploratory. In every form, its purpose is to develop the historical and conceptual judgment necessary to interpret computational results rather than merely produce them. If you have suggestions of things we should read, feel free to suggest them to anyone on the leadership team. 
 
- - **Thinking with concepts, inquiry**.  Sometimes a project begins with an established question, such as how generative AI represents the Holocaust, cultural heritage, or historical evidence. At other times, existing concepts prove inadequate and must be revised or created. Concepts such as hallucination, accuracy, bias, omission, authority, evidence, testimony, narrative, and “vibe” should never be treated as self-evident categories. Part of our work is determining what these terms mean, how they can be used and developed, and what they obscure.
+ - **Thinking with concepts, inquiry**.  Sometimes a project begins with an established question, such as how generative AI answers questions about the Holocaust. At other times, existing concepts prove inadequate and must be revised or created. Concepts such as hallucination, accuracy, bias, omission, authority, evidence, testimony, narrative, and “vibe” should never be treated as self-evident categories. Part of our work is determining what these terms mean, how they can be used and developed, and what they obscure.
  
  - **Observation and being embodied**.  Computational research still takes place in embodied, institutional, and historical contexts. Lab members attend closely to how people encounter AI systems, how interfaces shape interpretation, how archives and museums organize knowledge, and how researchers’ own positions affect what they notice. Noticing requires movement between texts, model outputs, interfaces, historical sources, institutional settings, and conversations with others.
 
 ### Methods for working with people and institutions.
-- A core principle of L<sup>3</sup> is that **everyone is an expert in something**. This includes lab members as well as archivists, museum professionals, educators, survivors, descendants, students, technologists, and community partners. We do not treat people merely as sources of extractable data. When research involves human participants or institutional partners, we approach it as a relationship shaped by consent, reciprocity, expertise, and continuing responsibility.
+- A core principle of L<sup>3</sup> is that **everyone is an expert in something**. This includes lab members as well as archivists, museum professionals, educators, survivors, descendants, students, technologists, and community partners. We do not treat people as sources of extractable data. When research involves human participants or institutional partners, we approach it as a relationship shaped by consent, reciprocity, expertise, and continuing responsibility.
  
 ### Methods for identifying and gathering "data."  
-- **Data is made, not born**, and there is no such thing as raw data. Search queries, prompts, screenshots, model outputs, archival records, metadata, annotations, benchmarks, and evaluation categories all emerge through situated decisions. Every dataset should therefore be accompanied by documentation explaining how it was produced, selected, cleaned, transformed, labeled, and interpreted. We do not assume that publicly accessible information is ethically unrestricted information. Data creation establishes relationships with people, institutions, platforms, historical subjects, and communities, and those relationships create responsibilities. Model outputs are also research objects rather than transparent answers. Record the model, version or access date, system settings when available, prompt structure, sampling procedure, and any transformations made before analysis.
+- **Data is made, not born**, and there is no such thing as "raw data." Search queries, prompts, screenshots, model outputs, archival records, metadata, annotations, benchmarks, and evaluation categories all emerge through situated decisions. Every dataset should therefore be accompanied by documentation explaining how it was produced, selected, cleaned, transformed, labeled, and interpreted. We do not assume that publicly accessible information is ethically unrestricted information. Data creation establishes relationships with people, institutions, platforms, historical subjects, and communities, and those relationships create responsibilities. Model outputs are also research objects rather than transparent answers. Record the model, version or access date, system settings when available, prompt structure, sampling procedure, and any transformations made before analysis.
   
 ### Methods for creating and communicating.  
-- **L<sup>3</sup> encourages work in multiple forms**, including scholarly articles, datasets, code, model-evaluation frameworks, visualizations, exhibitions, websites, teaching materials, public essays, workshops, and experimental interfaces. The format should follow the audience and purpose. Before producing an output, ask whether the goal is to report findings, reveal the limitations of a system, support a cultural institution, create a reusable research method, or prompt audiences to reconsider how AI mediates knowledge.
+- **L<sup>3</sup> encourages work in multiple forms**, including scholarly articles, datasets, code, model-evaluation frameworks, visualizations, exhibitions, websites, teaching materials, public essays, workshops, blogs, and experimental interfaces. The format should follow the audience and purpose. Before producing an output, ask whether the goal is to report findings, reveal the limitations of a system, support a cultural institution, create a reusable research method, or prompt audiences to reconsider how AI mediates knowledge.
 
 ## How the Lab works
 
