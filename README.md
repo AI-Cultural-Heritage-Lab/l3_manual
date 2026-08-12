@@ -222,20 +222,20 @@ Digital Spaces:
 
 ### I need help with something! Who do I ask?
 
-Internally in L<sup>3</sup> Aileen is your first stop for any information or issue, whether it be technical, structural, or even a little bit silly. Reach her by email at [aileentang12345@gmail.com](mailto:aileentang12345@gmail.com) or on Slack. 
+Internally in L<sup>3</sup> Aileen is your first stop for any information or issue, whether it be technical, structural, or anything else. Reach her by email at [aileentang12345@gmail.com](mailto:aileentang12345@gmail.com) or on Slack. 
 
 Our academic coordinator, Kathryn, and postdoc, Ulysses can be reached by email or Slack at [huetherk@g.ucla.edu](mailto:huetherk@g.ucla.edu) and [upascal@ucla.edu](mailto:upascal@ucla.edu), respectively.
 
 Sophia is also available at [toubian@ucla.edu](mailto:toubian@ucla.edu) or on Slack if needed.
 
-If Aileen, Kathryn, Ulysses, or Sophia can't help you (or if you feel the need to go all the way to the top) Todd can be reached by email at [presner@humnet.ucla.edu](mailto:presner@humnet.ucla.edu). 
+If Aileen, Kathryn, Ulysses, or Sophia can't help you (or if you feel the need to go all the way to the top), Todd can be reached by email at [presner@humnet.ucla.edu](mailto:presner@humnet.ucla.edu). 
 
 ### Faculty Member Duties
 
-In addition to all of the above faculty members should:
-* Support other members of the lab (scientifically, intellectually, emotionally, and where possible, financially).
+In addition to all of the above, faculty members should:
+* Support other members of the lab (scientifically, intellectually, professionally, emotionally, and as possible through the Lab, financially).
 * Give other members feedback on a timely basis, including feedback on project ideas, conference posters, talks, manuscripts, figures, grants.
-* Be available in person and via e-mail on a regular basis, including regular meetings to discuss your research.
+* Be available in person and via e-mail on a regular basis, including regular meetings to discuss research.
 * Support your career development  (e.g., by introducing you to other researchers in the field, promoting your work at talks, writing recommendation letters for you, and letting you attend conferences as often as finances permit)
 * Help you prepare for the next step of your career in the ways that their work and experience can be helpful.
 
@@ -244,7 +244,7 @@ In addition to all of the above faculty members should:
 
 Some L³ projects analyze publicly available texts or model outputs without directly recruiting human participants. Other projects may involve interviews, surveys, experiments, workshops, usability studies, classroom research, or collaboration with cultural institutions and communities. Whether a project requires IRB review depends on its design and intended use, not simply on whether its materials are available online. Consult the project lead before collecting information from or about people.
 
-L³ studies technologies and representations that can directly affect living people, communities, and institutions. Our research may involve testimony, genocide, racism, antisemitism, displacement, cultural loss, contested histories, or other forms of violence. An ethics of care therefore applies not only to formal human-subjects research but also to dataset construction, model testing, annotation, visualization, quotation, publication, and public communication.
+L³ studies technologies and representations can directly affect living people, communities, and institutions. Our research may involve testimony, genocide, racism, antisemitism, displacement, cultural loss, contested histories, or other forms of violence. An ethics of care therefore applies not only to formal human-subjects research but also to dataset construction, model testing, annotation, visualization, quotation, publication, and public communication.
 
 De-identification is not always sufficient to prevent harm, especially when materials concern small communities, identifiable historical experiences, or content that can be recombined with other data. Decisions about quotation, reproduction, and release should account for context, potential discoverability, and the wishes of relevant partners or communities.
 
@@ -283,7 +283,7 @@ Store Lab work in approved shared spaces whenever possible. Research materials s
 
 Do not share passwords, API keys, access tokens, or private credentials in shared documents, Slack channels, screenshots, presentations, or public repositories. If you think a credential has been exposed, tell the project lead or technical team immediately. 
 
-Never enter confidential, restricted, personally identifiable, unpublished, copyrighted partner material, or culturally sensitive information into a public or personally managed AI system without explicit authorization from the project lead and, where applicable, the relevant partner. 
+Never enter confidential, restricted, personally identifiable, unpublished, copyrighted partner material, or culturally sensitive information into a public or personally managed AI system. 
 
 When using an external AI platform, remember that prompts, uploaded materials, and outputs may be stored, reviewed, or reused by the company operating the platform. Check the project’s rules before uploading anything that is not clearly approved for public use. 
 
@@ -310,7 +310,7 @@ When quoting or reproducing sensitive material, include only what is necessary f
 
 Always distinguish clearly between historical evidence and AI-generated representation. Fabricated testimony, invented quotations, synthetic images, and model-generated historical narratives must never be presented in a way that could be mistaken for authentic archival material. 
 
-Research on denial, hate speech, disinformation, racism, or antisemitism may unintentionally increase the visibility of the material being studied. Think carefully about whether a screenshot, quotation, dataset release, or public link is necessary. The fact that something is analytically interesting does not automatically mean that it should be reproduced in full. 
+Research on denial, hate speech, disinformation, racism, or antisemitism may unintentionally increase the visibility of the material being studied. Think carefully about whether a screenshot, quotation, dataset release, or public link is necessary. The fact that something is analytically interesting does not automatically mean that it should be reproduced. 
 
 Historical expertise should be part of the project from the beginning, not added after the computational analysis is complete. If you do not have the necessary expertise, ask for help before making strong claims. 
 
@@ -328,14 +328,14 @@ Lab-wide decisions concern the shared direction and operation of L<sup>3</sup>. 
 - New institutional partnerships;
 - Changes to shared policies or protocols;
 - The creation or reorganization of pillars;
-- Allocation of shared resources;
+- Grant opportunities and/or the allocation of shared resources;
 - Adoption of major technical platforms;
 - Lab-wide events or publications; and
 - Public statements made in the name of the Lab.
 
 These decisions should usually be discussed in a general meeting or through another process that gives affected members an opportunity to contribute. 
 
-Not every decision will be made by consensus. The person responsible for the final decision should be clear, and the reasoning should be communicated when the decision materially affects other people’s work. 
+Not every decision will be made by consensus, but in general, Todd will work closely with the Leadership team for all major decisions. 
 
 #### Pillar Decisions
 Pillars are working groups organized around shared methods, research problems, or areas of activity. They allow us to collaborate more specifically to coordinate work across multiple projects.
@@ -382,7 +382,7 @@ When people disagree, first clarify whether the disagreement concerns:
 
 Interpretive disagreements may remain open when more than one reading is defensible. Methodological disagreements should be addressed by returning to the research question and considering which approach best supports the claims being made. 
 
-Concerns involving ethics, safety, credit, misuse of authority, or harmful conduct should not be treated as ordinary intellectual disagreement. 
+Concerns involving breach of ethics, safety, credit, misrepresentation, misuse of authority, or harmful conduct should not be treated as ordinary intellectual disagreement. These should be brought to the Leadership team. 
 
 When a decision must be made without consensus, the person with the relevant responsibility should make the decision and explain it to those affected. Important limitations or dissenting interpretations should be documented rather than hidden. 
 
@@ -399,7 +399,6 @@ The Lab Director holds overall institutional responsibility for L<sup>3</sup>. T
 - Major authorship or conduct disputes;
 - Allocation of major shared resources; and
 - Work publicly presented in the name of the Lab.
-The Lab Director should is not the only person available for routine questions or support.
 
 #### Leadership Team
 The leadership team includes faculty, postdocs, graduate researchers, technical leads, and other designated members.
@@ -485,13 +484,7 @@ Public availability does not eliminate contextual integrity, copyright, privacy,
 
 Code, data, annotations, model outputs, images, and written publications may require different licenses. Do not assume that permission to access or analyze material includes permission to redistribute it.
 
-### Working with Cultural Heritage
-Cultural heritage materials are not merely content inputs. They may be evidence, testimony, sacred or culturally restricted knowledge, institutional records, artistic works, or traces of historical violence. Their digitization and computational analysis do not erase the conditions under which they were created, preserved, described, or made accessible.
-When working with archives, museums, libraries, or community collections, respect the institution’s access conditions and the knowledge of its staff. Document how cataloguing systems, collection histories, digitization choices, and archival absences affect the claims a project can make.
-AI-generated representations of the past should be evaluated not only for factual correctness but also for omission, narrative framing, homogenization, attribution, evidentiary grounding, and the displacement of historically situated voices.
-
-
-#### Attribution note: 
+#### A Final Attribution note: 
 This lab manual draws upon the collectively-honed insights and pathbreaking work of the Civic Laboratory for Environmental Action Research (CLEAR), a feminist, anti-colonial lab specializing in monitoring plastic pollution, directed by Max Liboiron. See the Jan 1, 2018 snapshot of [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/). In particular lab guidelines 1-8 were drawn directly from the CLEAR Lab Book and then adapted with minor edits. The value framework blurb as well as the onboarding and exiting protocols are directly drawn from the CLEAR Lab Book. Text on faculty responsibilities is almost entirely from the [Aly Lab Book](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf) and that lab book also inspired some language in the Work Autonomously guideline. The child care guideline is entirely in debt to Kate Cairns syllabus policy you can see [here](https://twitter.com/katefcairns/status/1222274604426825730/photo/1). 
 
 The Manual would not exist in this form without Nick Shapiro's [Carceral Ecologies Lab Book](https://github.com/Carceral-Ecologies/lab_book) and Christopher Kelty's [LAByrinth Project Manual](https://github.com/toubian/labyrinth_manual) from which the structure, content, and aforementioned citations were borrowed with minor edits. 
