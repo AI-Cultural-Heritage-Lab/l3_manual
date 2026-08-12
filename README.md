@@ -151,9 +151,9 @@ For a list of UCLA Campus Resources for Student Support please see [this list](h
 
 There are a few different ways we can support your work within L<sup>3</sup>, methods of support (detailed below) depend on the capacity in which you join, which are as follows: 
 
-* Research Mentee (Auditor) - This is the first stage for undergraduate students and allow you to participate in lab meetings, meet the team, learn about our research projects, and become involved in one or more research pillars. * Note: At least one quarter of auditing is a prerequisite for joining as an undergraduate researcher.
+* Research Mentee (Auditor) - This is the first stage for undergraduate students and allows you to participate in lab meetings, meet the team, learn about our research projects, and become involved in one or more research pillars. * Note: At least 1-2 quarters of auditing is a prerequisite for joining as an undergraduate researcher.
 
-* Class Credit - Digital Humanities (DH) majors can enroll for capstone credit in the lab (normally after one quarter as an auditor). Capstone credit requires junior of senior status at UCLA with a declared DH major. Individual capstone projects are proposed the quarter before the capstone and are developed in consultation with Todd and, as needed, other members of the leadership team. Capstone projects require a defined research question, methodology, and proposed deliverable. 
+* Class Credit - Digital Humanities (DH) majors can enroll for capstone credit in the lab (normally after one quarter as an auditor). Capstone credit requires junior or senior status at UCLA with a declared DH major. Individual capstone projects are proposed the quarter before the capstone and are developed in consultation with Todd and, as needed, other members of the leadership team. Capstone projects require a defined research question, methodology, and proposed deliverable. 
 
 * Undergraduate Researcher - After completing 1-2 quarters as an auditor, students can further develop their projects as undergraduate researchers for the lab and be paid to do so. Undergradudate researchers are hired at the discretion of Todd and require a formal application (CV, statement of research interest, and team interview).
 
@@ -174,7 +174,7 @@ There are a few different ways we can support your work within L<sup>3</sup>, me
 
 #### Supporting Graduate Research
 
-L<sup>3</sup> will, as funding permits, support graduate students through research scholarships and/or formal GSR appointments. Every GSR has to be negotiated with Todd, and involves working with undergrads, postdocs or faculty on a project with clear goals. 
+L<sup>3</sup> will, as funding permits, support graduate students through research scholarships and/or formal GSR appointments. Every GSR has to be negotiated with Todd, and involves working with undergrads, postdocs, and/or faculty on a project with clear goals. 
 
 
 ### A Note on Authorship
@@ -185,11 +185,11 @@ Contributions that do not meet the agreed threshold for authorship should still 
 Undergraduate status, seniority, job title, or temporary participation does not by itself determine authorship. Likewise, access to funding or supervision does not automatically justify authorship.
 
 Generally, this has looked like: 
-* Formal Journals: Authorship distribution is set before work on the deliverable commences.  
-* L<sup>3</sup> Website: Undergraduates/Graduates who work on the deliverable will (usually) get full authorship. 
-* Other mediums: To be determined before work begins by the authors and Todd.
+* Formal Publications (such as a journal article): Authorship distribution is established before work on the deliverable commences.  
+* L<sup>3</sup> Website (such as a blog): Undergraduates/Graduate Students who work on the deliverable will generally get full authorship (or co-authorship) for their piece. 
+* Other mediums (such as posters or conference presentations): To be determined before work begins by the authors and Todd. If the research stems directly from the Lab, the Large Language Lab (and relevant funding) should be explicitly acknowledged as well as any co-authors and/or co-developers. 
 
-***A Note: Never enter confidential, restricted, personally identifiable, unpublished, copyrighted partner material, or culturally sensitive information into a public or personally managed AI system without explicit authorization from the project lead and, where applicable, the relevant partner.**
+***Note: Never enter confidential, restricted, personally identifiable, unpublished, copyrighted partner material, or culturally sensitive information into a public or personally managed AI system. The Lab does NOT support the use of AI for writing research publications, and all uses of AI in the research enterprise/design must be explicitly documented and disclosed.**
 
 ## What Resources do I Have Access to as a lab Member? How do I Use Them?
 
