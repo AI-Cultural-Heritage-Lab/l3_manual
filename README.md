@@ -46,7 +46,7 @@ The Following is a *draft* version of our lab book. As a draft it may contain er
 * When presenting Lab work, acknowledge the Lab, contributors, partners, funders, and relevant archives or institutions. Usually a screenshot of the Lab, the lab participants, and/or relevant funders is appropriate. 
 
 ### When you need help
-For routine questions, start with **your project or pillar collaborators and existing documentation**. If you still need help, contact [**Aileen**](aileen12345@gmail.com). [Kathryn](huetherk@g.ucla.edu), [Ulysses](upascal@ucla.edu), and S[ophia](toubian@ucla.edu) are also available for support. Bring unresolved, sensitive, institutional, or major project concerns to the appropriate member of the leadership team or Todd.
+For routine questions, start with **your project or pillar collaborators and existing documentation**. If you still need help, contact [**Aileen**](aileen12345@gmail.com). [Kathryn](huetherk@g.ucla.edu), [Ulysses](upascal@ucla.edu), and [Sophia](toubian@ucla.edu) are also available for support. Bring unresolved, sensitive, institutional, or major project concerns to the appropriate member of the leadership team or Todd.
 
 **When in doubt, ask.** The Lab values autonomy, but autonomy does not mean handling consequential uncertainty alone. The full manual below explains these expectations, the principles behind them, and the protocols for specific situations.
 
