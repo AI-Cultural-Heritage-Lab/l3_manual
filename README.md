@@ -1,16 +1,16 @@
 
-The Following is a *draft* version of our lab book. As a draft it may contain errors and may need improved citation. Please submit a pull request to suggest any changes
+August 2026 Version 1.0
 
 # The "Large Language Lab" Manual 
 
-[The Large Language Lab (L<sup>3</sup>)](https://largelanguagelab.com) @ UCLA investigates how large language models and related AI systems produce, transform, organize, and circulate historical and cultural knowledge. Our work combines humanistic inquiry, computational analysis, archival research, critical data studies, and collaborative public scholarship. Led by Professor [Todd Presner](https://elts.ucla.edu/person/todd-presner/), the lab brings together an interdisciplinary team of researchers spanning digital humanities, history, information studies, computer science, data science, and cultural studies. Our work combines computational methods and humanistic inquiry, applying AI to large-scale cultural heritage archives while also studying how generative AI systems themselves construct, distort, and mediate historical knowledge. Focal areas of the lab include: 1). AI and Extremism -- how AI can be used to distort the past and propagate misinformation, especially around the Holocaust; 2). Prompting the Past -- how AI-generated language is shaping and reshaping historical narratives; 3). AI Forensics -- a deep dive into how AI systems work technically; 4.) AI and Cultural Heritage -- a partnership with museums and libraries to use AI for expanding research and education.
+[The Large Language Lab (L<sup>3</sup>)](https://largelanguagelab.com) @ UCLA investigates how large language models and related AI systems produce, transform, organize, and circulate historical and cultural knowledge. Our work combines humanistic inquiry, computational analysis, archival research, critical data studies, and collaborative public scholarship. Led by Professor [Todd Presner](https://elts.ucla.edu/person/todd-presner/), the lab brings together an interdisciplinary team of researchers spanning digital humanities, history, information studies, computer science, data science, and cultural studies. We develop methods to apply AI to large-scale cultural heritage archives while also investigating how generative AI systems construct, distort, and mediate historical knowledge. Focal areas of the lab include: 1). AI and Extremism -- how AI can be used to distort the past and propagate misinformation, especially around the Holocaust; 2). Prompting the Past -- how AI-generated language is shaping and reshaping historical narratives; 3). AI Forensics -- a deep dive into how AI systems work technically; 4.) AI and Cultural Heritage -- a partnership with museums and libraries to use AI for expanding research and education.
 
 ## L³ Practical Guide
 
-**If you are new to the Lab, start here.** This page summarizes the everyday expectations and practices you need to participate in L³. The rest of this manual explains the values, reasoning, structures, and protocols behind them in greater detail.
+**If you are new to the Lab, start here.** This part summarizes the everyday expectations and practices you need to participate in L³. The rest of this manual explains the values, reasoning, structures, and protocols behind them in greater detail.
 
 ### Show up, communicate, and know what you are working on
-* Attend the weekly **general Lab meeting** and the meetings for your **pillar(s)**. 
+* Attend the weekly **general Lab meeting** and the meetings for your **research pillar(s)**. Ideas are presented, explored, debated, and developed at lab meetings. 
 * Know your **pillar, project, project lead, responsibilities, and current deliverables**.
 * Work autonomously and problem-solve where you can, but ask for help when you need it. Do not struggle silently with ethical, technical, security, interpersonal, or historically sensitive problems.
 * Check in before making changes that substantially affect a project's research question, dataset, claims, timeline, partners, authorship, or public outputs.
@@ -24,7 +24,7 @@ The Following is a *draft* version of our lab book. As a draft it may contain er
 
 ### Protect data and research materials
 * Before using a dataset or collection, know **where it came from, who is responsible for it, what restrictions apply, where it can be stored, and who can access it**.
-* Never put confidential, restricted, personally identifiable, unpublished, copyrighted partner, or culturally sensitive material into a public or personally managed AI system. Never post such materials online or in any public forum outside the lab. 
+* Never put confidential, restricted, personally identifiable, unpublished, copyrighted partner, or culturally sensitive material into a public or personally managed AI system. This includes discussions at lab meetings as well as all works-in-progress (usually shared as Google Docs). Never post such materials online or in any public forum outside the lab. 
 * Never share passwords, API keys, access tokens, or other credentials in Slack, shared documents, screenshots, presentations, or public repositories.
 * If data or credentials are lost, exposed, or shared incorrectly, **tell the project lead or technical team immediately**.
 
